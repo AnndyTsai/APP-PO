@@ -1,0 +1,1356 @@
+[ INFO ] [2019-08-05-08:20:04] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-08:20:04] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-08:20:04] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-08:20:04] [Class-startAppiumServer][Method-Map] 清除node进程成功
+[ INFO ] [2019-08-05-08:20:04] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-08:20:04] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-08:20:04] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-08:20:04] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-08:20:04] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-08:20:04] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-08:20:04] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-08:20:04] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-08:20:04] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-08:20:04] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-08:20:04] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-08:20:04] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-08:20:04] [Class-startAppiumServer][Method-Map] 开始启动Appium-Server
+[ INFO ] [2019-08-05-08:20:04] [Class-startAppiumServer][Method-Map] Appium Server启动在【7362】端口
+[ INFO ] [2019-08-05-08:20:04] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-08:20:14] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-08:20:14] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-08:20:14] [Class-startAppiumServer][Method-Map] Appium-Server启动完成
+[ INFO ] [2019-08-05-08:20:14] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-08:20:14] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-08:20:14] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-08:20:14] [DriverBase] 当前连接上Appium-server的设备UUID是：[88MFBML3H4MH]
+[ INFO ] [2019-08-05-08:20:14] [DriverBase] 启动的UUID是:[88MFBML3H4MH],启动的Appium端口是：[7362]
+[ INFO ] [2019-08-05-08:20:14] [Class-initDriver][Method-getDriver] 当前APP已安装
+[ INFO ] [2019-08-05-08:20:14] [Class-initDriver][Method-getDriver] 调用‘initDriver’方法
+[ INFO ] [2019-08-05-08:20:14] [Class-initDriver][Method-getDriver] 创建DesiredCapabilities对象
+[ INFO ] [2019-08-05-08:20:14] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-DeviceName：Android
+[ INFO ] [2019-08-05-08:20:14] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-appPackagecom.zhihu.android
+[ INFO ] [2019-08-05-08:20:14] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-appActivitycom.zhihu.android.app.ui.activity.LauncherActivity
+[ INFO ] [2019-08-05-08:20:14] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-session超时时间600S
+[ INFO ] [2019-08-05-08:20:14] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-udid超时时间-->88MFBML3H4MH
+[ INFO ] [2019-08-05-08:20:14] [Class-initDriver][Method-getDriver] 启动Andriod Driver,启动在【7362】端口,UUID是：【88MFBML3H4MH】...
+[ INFO ] [2019-08-05-08:26:12] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-08:26:13] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-08:26:13] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-08:26:13] [Class-startAppiumServer][Method-Map] 清除node进程成功
+[ INFO ] [2019-08-05-08:26:13] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-08:26:13] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-08:26:13] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-08:26:13] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-08:26:13] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-08:26:13] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-08:26:13] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-08:26:13] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-08:26:13] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-08:26:13] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-08:26:13] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-08:26:13] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-08:26:13] [Class-startAppiumServer][Method-Map] 开始启动Appium-Server
+[ INFO ] [2019-08-05-08:26:13] [Class-startAppiumServer][Method-Map] Appium Server启动在【9748】端口
+[ INFO ] [2019-08-05-08:26:13] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-08:26:23] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-08:26:23] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-08:26:23] [Class-startAppiumServer][Method-Map] Appium-Server启动完成
+[ INFO ] [2019-08-05-08:26:23] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-08:26:23] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-08:26:23] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-08:26:23] [DriverBase] 当前连接上Appium-server的设备UUID是：[88MFBML3H4MH]
+[ INFO ] [2019-08-05-08:26:23] [DriverBase] 启动的UUID是:[88MFBML3H4MH],启动的Appium端口是：[9748]
+[ INFO ] [2019-08-05-08:26:23] [Class-initDriver][Method-getDriver] 当前APP已安装
+[ INFO ] [2019-08-05-08:26:23] [Class-initDriver][Method-getDriver] 调用‘initDriver’方法
+[ INFO ] [2019-08-05-08:26:23] [Class-initDriver][Method-getDriver] 创建DesiredCapabilities对象
+[ INFO ] [2019-08-05-08:26:23] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-DeviceName：Android
+[ INFO ] [2019-08-05-08:26:23] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-appPackagecom.zhihu.android
+[ INFO ] [2019-08-05-08:26:23] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-appActivitycom.zhihu.android.app.ui.activity.LauncherActivity
+[ INFO ] [2019-08-05-08:26:23] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-session超时时间600S
+[ INFO ] [2019-08-05-08:26:23] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-udid超时时间-->88MFBML3H4MH
+[ INFO ] [2019-08-05-08:26:23] [Class-initDriver][Method-getDriver] 启动Andriod Driver,启动在【9748】端口,UUID是：【88MFBML3H4MH】...
+[ INFO ] [2019-08-05-08:30:11] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-08:30:11] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-08:30:11] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-08:30:11] [Class-startAppiumServer][Method-Map] 清除node进程成功
+[ INFO ] [2019-08-05-08:30:11] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-08:30:11] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-08:30:11] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-08:30:11] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-08:30:11] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-08:30:11] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-08:30:11] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-08:30:11] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-08:30:12] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-08:30:12] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-08:30:12] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-08:30:12] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-08:30:12] [Class-startAppiumServer][Method-Map] 开始启动Appium-Server
+[ INFO ] [2019-08-05-08:30:12] [Class-startAppiumServer][Method-Map] Appium Server启动在【5080】端口
+[ INFO ] [2019-08-05-08:30:12] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-08:30:22] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-08:30:22] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-08:30:22] [Class-startAppiumServer][Method-Map] Appium-Server启动完成
+[ INFO ] [2019-08-05-08:30:22] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-08:30:22] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-08:30:22] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-08:30:22] [DriverBase] 当前连接上Appium-server的设备UUID是：[88MFBML3H4MH]
+[ INFO ] [2019-08-05-08:30:22] [DriverBase] 启动的UUID是:[88MFBML3H4MH],启动的Appium端口是：[5080]
+[ INFO ] [2019-08-05-08:30:22] [Class-initDriver][Method-getDriver] 当前APP已安装
+[ INFO ] [2019-08-05-08:30:22] [Class-initDriver][Method-getDriver] 调用‘initDriver’方法
+[ INFO ] [2019-08-05-08:30:22] [Class-initDriver][Method-getDriver] 创建DesiredCapabilities对象
+[ INFO ] [2019-08-05-08:30:22] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-DeviceName：Android
+[ INFO ] [2019-08-05-08:30:22] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-appPackagecom.zhihu.android
+[ INFO ] [2019-08-05-08:30:22] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-appActivitycom.zhihu.android.app.ui.activity.LauncherActivity
+[ INFO ] [2019-08-05-08:30:22] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-session超时时间600S
+[ INFO ] [2019-08-05-08:30:22] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-udid超时时间-->88MFBML3H4MH
+[ INFO ] [2019-08-05-08:30:22] [Class-initDriver][Method-getDriver] 启动Andriod Driver,启动在【5080】端口,UUID是：【88MFBML3H4MH】...
+[ INFO ] [2019-08-05-08:33:02] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-08:33:02] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-08:33:02] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-08:33:02] [Class-startAppiumServer][Method-Map] 清除node进程成功
+[ INFO ] [2019-08-05-08:33:02] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-08:33:02] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-08:33:02] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-08:33:02] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-08:33:02] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-08:33:02] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-08:33:02] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-08:33:02] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-08:33:02] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-08:33:02] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-08:33:02] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-08:33:03] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-08:33:03] [Class-startAppiumServer][Method-Map] 开始启动Appium-Server
+[ INFO ] [2019-08-05-08:33:03] [Class-startAppiumServer][Method-Map] Appium Server启动在【5098】端口
+[ INFO ] [2019-08-05-08:33:03] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-08:33:13] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-08:33:13] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-08:33:13] [Class-startAppiumServer][Method-Map] Appium-Server启动完成
+[ INFO ] [2019-08-05-08:33:13] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-08:33:13] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-08:33:13] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-08:33:13] [Class-DriverBase] 当前连接上Appium-server的设备UUID是：[88MFBML3H4MH]
+[ INFO ] [2019-08-05-08:33:13] [Class-DriverBase] 启动的UUID是:[88MFBML3H4MH],启动的Appium端口是：[5098]
+[ INFO ] [2019-08-05-08:33:13] [Class-initDriver][Method-getDriver] 当前APP已安装
+[ INFO ] [2019-08-05-08:33:13] [Class-initDriver][Method-getDriver] 调用‘initDriver’方法
+[ INFO ] [2019-08-05-08:33:13] [Class-initDriver][Method-getDriver] 创建DesiredCapabilities对象
+[ INFO ] [2019-08-05-08:33:13] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-DeviceName：Android
+[ INFO ] [2019-08-05-08:33:13] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-appPackagecom.zhihu.android
+[ INFO ] [2019-08-05-08:33:13] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-appActivitycom.zhihu.android.app.ui.activity.LauncherActivity
+[ INFO ] [2019-08-05-08:33:13] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-session超时时间600S
+[ INFO ] [2019-08-05-08:33:13] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-udid超时时间-->88MFBML3H4MH
+[ INFO ] [2019-08-05-08:33:13] [Class-initDriver][Method-getDriver] 启动Andriod Driver,启动在【5098】端口,UUID是：【88MFBML3H4MH】...
+[ INFO ] [2019-08-05-10:25:17] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:25:17] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:25:17] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:25:17] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:25:17] [Class-startAppiumServer][Method-Map] 清除node进程成功
+[ INFO ] [2019-08-05-10:25:17] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:25:17] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:25:17] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:25:17] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:25:17] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:25:17] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:25:17] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:25:18] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:25:18] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:25:18] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:25:18] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:25:18] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:25:18] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:25:18] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:25:18] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:25:18] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:25:18] [Class-startAppiumServer][Method-Map] 开始启动Appium-Server
+[ INFO ] [2019-08-05-10:25:18] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:25:18] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:25:28] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:25:28] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:25:28] [Class-startAppiumServer][Method-Map] Appium-Server启动完成
+[ INFO ] [2019-08-05-10:25:28] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:25:28] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:25:28] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:25:28] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:25:28] [Class-DriverBase] 当前连接上Appium-server的设备UUID是：[88MFBML3H4MH]
+[ INFO ] [2019-08-05-10:25:28] [Class-DriverBase] 启动的UUID是:[88MFBML3H4MH],启动的Appium端口是：[8451]
+[ INFO ] [2019-08-05-10:25:28] [Class-initDriver][Method-getDriver] 当前APP已安装
+[ INFO ] [2019-08-05-10:25:28] [Class-initDriver][Method-getDriver] 调用‘initDriver’方法
+[ INFO ] [2019-08-05-10:25:28] [Class-initDriver][Method-getDriver] 创建DesiredCapabilities对象
+[ INFO ] [2019-08-05-10:25:28] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-DeviceName：Android
+[ INFO ] [2019-08-05-10:25:28] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-appPackagecom.zhihu.android
+[ INFO ] [2019-08-05-10:25:28] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-appActivitycom.zhihu.android.app.ui.activity.LauncherActivity
+[ INFO ] [2019-08-05-10:25:28] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-session超时时间600S
+[ INFO ] [2019-08-05-10:25:28] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-udid超时时间-->88MFBML3H4MH
+[ INFO ] [2019-08-05-10:25:28] [Class-initDriver][Method-getDriver] 启动Andriod Driver,启动在【8451】端口,UUID是：【88MFBML3H4MH】...
+[ INFO ] [2019-08-05-10:29:14] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:29:14] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:29:14] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:29:14] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:29:14] [Class-startAppiumServer][Method-Map] 清除node进程成功
+[ INFO ] [2019-08-05-10:29:14] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:29:14] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:29:14] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:29:14] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:29:14] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:29:14] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:29:14] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:29:14] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:29:14] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:29:14] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:29:14] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:29:14] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:29:14] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:29:14] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:29:14] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:29:14] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:29:14] [Class-startAppiumServer][Method-Map] 开始启动Appium-Server
+[ INFO ] [2019-08-05-10:29:14] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:29:14] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:29:37] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:29:37] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:29:37] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:29:37] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:29:37] [Class-startAppiumServer][Method-Map] 清除node进程成功
+[ INFO ] [2019-08-05-10:29:37] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:29:37] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:29:37] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:29:37] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:29:37] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:29:38] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:29:38] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:29:38] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:29:38] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:29:38] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:29:38] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:29:38] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:29:38] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:29:38] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:29:38] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:29:38] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:29:38] [Class-startAppiumServer][Method-Map] 开始启动Appium-Server
+[ INFO ] [2019-08-05-10:29:38] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:29:38] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:30:25] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:30:25] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:30:25] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:30:25] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:30:25] [Class-startAppiumServer][Method-Map] 清除node进程成功
+[ INFO ] [2019-08-05-10:30:25] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:30:25] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:30:25] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:30:25] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:30:25] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:30:25] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:30:25] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:30:25] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:30:25] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:30:25] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:30:25] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:30:25] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:30:25] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:30:25] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:30:25] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:30:25] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:30:25] [Class-startAppiumServer][Method-Map] 开始启动Appium-Server
+[ INFO ] [2019-08-05-10:30:25] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:30:25] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:30:35] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:30:35] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:30:35] [Class-startAppiumServer][Method-Map] Appium-Server启动完成
+[ INFO ] [2019-08-05-10:30:35] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:30:35] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:30:35] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:30:35] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:30:35] [Class-DriverBase] 当前连接上Appium-server的设备UUID是：[88MFBML3H4MH]
+[ INFO ] [2019-08-05-10:30:35] [Class-DriverBase] 启动的UUID是:[88MFBML3H4MH],启动的Appium端口是：[4308]
+[ INFO ] [2019-08-05-10:30:35] [Class-initDriver][Method-getDriver] 当前APP已安装
+[ INFO ] [2019-08-05-10:30:35] [Class-initDriver][Method-getDriver] 调用‘initDriver’方法
+[ INFO ] [2019-08-05-10:30:35] [Class-initDriver][Method-getDriver] 创建DesiredCapabilities对象
+[ INFO ] [2019-08-05-10:30:35] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-DeviceName：Android
+[ INFO ] [2019-08-05-10:30:35] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-appPackagecom.zhihu.android
+[ INFO ] [2019-08-05-10:30:35] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-appActivitycom.zhihu.android.app.ui.activity.LauncherActivity
+[ INFO ] [2019-08-05-10:30:35] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-session超时时间600S
+[ INFO ] [2019-08-05-10:30:35] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-udid超时时间-->88MFBML3H4MH
+[ INFO ] [2019-08-05-10:30:35] [Class-initDriver][Method-getDriver] 启动Andriod Driver,启动在【4308】端口,UUID是：【88MFBML3H4MH】...
+[ INFO ] [2019-08-05-10:33:26] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:33:26] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:33:26] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:33:26] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:33:26] [Class-startAppiumServer][Method-Map] 清除node进程成功
+[ INFO ] [2019-08-05-10:33:26] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:33:26] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:33:26] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:33:26] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:33:26] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:33:26] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:33:26] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:33:26] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:33:26] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:33:26] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:33:26] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:33:26] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:33:26] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:33:26] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:33:26] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:33:26] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:33:26] [Class-startAppiumServer][Method-Map] 开始启动Appium-Server
+[ INFO ] [2019-08-05-10:33:26] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:33:27] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:33:37] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:33:37] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:33:37] [Class-startAppiumServer][Method-Map] Appium-Server启动完成
+[ INFO ] [2019-08-05-10:33:37] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:33:37] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:33:37] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:33:37] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:33:37] [Class-DriverBase] 当前连接上Appium-server的设备UUID是：[88MFBML3H4MH]
+[ INFO ] [2019-08-05-10:33:37] [Class-DriverBase] 启动的UUID是:[88MFBML3H4MH],启动的Appium端口是：[5978]
+[ INFO ] [2019-08-05-10:33:37] [Class-initDriver][Method-getDriver] 当前APP已安装
+[ INFO ] [2019-08-05-10:33:37] [Class-initDriver][Method-getDriver] 调用‘initDriver’方法
+[ INFO ] [2019-08-05-10:33:37] [Class-initDriver][Method-getDriver] 创建DesiredCapabilities对象
+[ INFO ] [2019-08-05-10:33:37] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-DeviceName：Android
+[ INFO ] [2019-08-05-10:33:37] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-appPackagecom.zhihu.android
+[ INFO ] [2019-08-05-10:33:37] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-appActivitycom.zhihu.android.app.ui.activity.LauncherActivity
+[ INFO ] [2019-08-05-10:33:37] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-session超时时间600S
+[ INFO ] [2019-08-05-10:33:37] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-udid超时时间-->88MFBML3H4MH
+[ INFO ] [2019-08-05-10:33:37] [Class-initDriver][Method-getDriver] 启动Andriod Driver,启动在【5978】端口,UUID是：【88MFBML3H4MH】...
+[ INFO ] [2019-08-05-10:41:00] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:41:00] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:41:00] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:41:00] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:41:00] [Class-startAppiumServer][Method-Map] 清除node进程成功
+[ INFO ] [2019-08-05-10:41:00] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:41:00] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:41:00] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:41:00] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:41:00] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:41:00] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:41:00] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:41:00] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:41:00] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:41:00] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:41:00] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:41:00] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:41:00] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:41:00] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:41:00] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:41:00] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:41:00] [Class-startAppiumServer][Method-Map] 开始启动Appium-Server
+[ INFO ] [2019-08-05-10:41:00] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:41:00] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:41:10] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:41:10] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:41:10] [Class-startAppiumServer][Method-Map] Appium-Server启动完成
+[ INFO ] [2019-08-05-10:41:10] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:41:10] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:41:10] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:41:11] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:41:11] [Class-DriverBase] 当前连接上Appium-server的设备UUID是：[88MFBML3H4MH]
+[ INFO ] [2019-08-05-10:41:11] [Class-DriverBase] 启动的UUID是:[88MFBML3H4MH],启动的Appium端口是：[2903]
+[ INFO ] [2019-08-05-10:41:11] [Class-initDriver][Method-getDriver] 当前APP已安装
+[ INFO ] [2019-08-05-10:41:11] [Class-initDriver][Method-getDriver] 调用‘initDriver’方法
+[ INFO ] [2019-08-05-10:41:11] [Class-initDriver][Method-getDriver] 创建DesiredCapabilities对象
+[ INFO ] [2019-08-05-10:41:11] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-DeviceName：Android
+[ INFO ] [2019-08-05-10:41:11] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-appPackagecom.zhihu.android
+[ INFO ] [2019-08-05-10:41:11] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-appActivitycom.zhihu.android.app.ui.activity.LauncherActivity
+[ INFO ] [2019-08-05-10:41:11] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-session超时时间600S
+[ INFO ] [2019-08-05-10:41:11] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-udid超时时间-->88MFBML3H4MH
+[ INFO ] [2019-08-05-10:41:11] [Class-initDriver][Method-getDriver] 启动Andriod Driver,启动在【2903】端口,UUID是：【88MFBML3H4MH】...
+[ INFO ] [2019-08-05-10:41:47] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:41:47] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:41:47] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:41:47] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:41:47] [Class-startAppiumServer][Method-Map] 清除node进程成功
+[ INFO ] [2019-08-05-10:41:47] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:41:47] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:41:47] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:41:47] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:41:47] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:41:47] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:41:47] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:41:47] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:41:47] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:41:47] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:41:47] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:41:47] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:41:47] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:41:47] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:41:47] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:41:47] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:41:47] [Class-startAppiumServer][Method-Map] 开始启动Appium-Server
+[ INFO ] [2019-08-05-10:41:47] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:41:47] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:41:57] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:41:57] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:41:57] [Class-startAppiumServer][Method-Map] Appium-Server启动完成
+[ INFO ] [2019-08-05-10:41:57] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:41:57] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:41:57] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:41:57] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:41:57] [Class-DriverBase] 当前连接上Appium-server的设备UUID是：[88MFBML3H4MH]
+[ INFO ] [2019-08-05-10:41:57] [Class-DriverBase] 启动的UUID是:[88MFBML3H4MH],启动的Appium端口是：[9958]
+[ INFO ] [2019-08-05-10:41:57] [Class-initDriver][Method-getDriver] 当前APP已安装
+[ INFO ] [2019-08-05-10:41:57] [Class-initDriver][Method-getDriver] 调用‘initDriver’方法
+[ INFO ] [2019-08-05-10:41:57] [Class-initDriver][Method-getDriver] 创建DesiredCapabilities对象
+[ INFO ] [2019-08-05-10:41:57] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-DeviceName：Android
+[ INFO ] [2019-08-05-10:41:57] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-appPackagecom.zhihu.android
+[ INFO ] [2019-08-05-10:41:57] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-appActivitycom.zhihu.android.app.ui.activity.LauncherActivity
+[ INFO ] [2019-08-05-10:41:57] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-session超时时间600S
+[ INFO ] [2019-08-05-10:41:57] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-udid超时时间-->88MFBML3H4MH
+[ INFO ] [2019-08-05-10:41:57] [Class-initDriver][Method-getDriver] 启动Andriod Driver,启动在【9958】端口,UUID是：【88MFBML3H4MH】...
+[ INFO ] [2019-08-05-10:42:04] [Class-initDriver][Method-getDriver] 启动Andriod Driver成功...
+[ INFO ] [2019-08-05-10:42:04] [Class-by][Method-by] 当前定位方式是name,定位元素允许
+[ INFO ] [2019-08-05-10:42:04] [Class-homePage][Method-isAllowed] 未定位到元素
+[ INFO ] [2019-08-05-10:42:04] [Class-by][Method-by] 当前定位方式是name,定位元素热榜
+[ INFO ] [2019-08-05-10:42:04] [Class-homePage][Method-hotTopics] hotTopics未定位到元素
+[ INFO ] [2019-08-05-10:42:04] [Class-by][Method-by] 当前定位方式是name,定位元素全站
+[ INFO ] [2019-08-05-10:42:04] [Class-homePage][Method-allTopics] allTopics未定位到元素
+[ INFO ] [2019-08-05-10:42:04] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/ranking_no
+[ INFO ] [2019-08-05-10:42:04] [Class-homePage][Method-top10TopicsNo] top10TopicsNo未定位到元素
+[ INFO ] [2019-08-05-10:42:04] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/title
+[ INFO ] [2019-08-05-10:42:04] [Class-homePage][Method-top10TopicsTitle] top10TopicsTitle未定位到元素
+[ INFO ] [2019-08-05-10:42:04] [Class-HomeBuss][Method-buss] 执行第0次滑动，top10TopicsNo为：0
+[ INFO ] [2019-08-05-10:42:04] [Class-pageBase][Method-getWidthAndHeight] 获取到分辨率为：[720, 1280]
+[ INFO ] [2019-08-05-10:42:04] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 640]-->[360 384]
+[ INFO ] [2019-08-05-10:44:49] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:44:49] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:44:49] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:44:49] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:44:49] [Class-startAppiumServer][Method-Map] 清除node进程成功
+[ INFO ] [2019-08-05-10:44:49] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:44:49] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:44:49] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:44:49] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:44:49] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:44:49] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:44:49] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:44:49] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:44:49] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:44:49] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:44:49] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:44:49] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:44:49] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:44:49] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:44:49] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:44:49] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:44:49] [Class-startAppiumServer][Method-Map] 开始启动Appium-Server
+[ INFO ] [2019-08-05-10:44:49] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:44:49] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:44:59] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:44:59] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:44:59] [Class-startAppiumServer][Method-Map] Appium-Server启动完成
+[ INFO ] [2019-08-05-10:44:59] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-10:44:59] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-10:44:59] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-10:45:00] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-10:45:00] [Class-DriverBase] 当前连接上Appium-server的设备UUID是：[88MFBML3H4MH]
+[ INFO ] [2019-08-05-10:45:00] [Class-DriverBase] 启动的UUID是:[88MFBML3H4MH],启动的Appium端口是：[6569]
+[ INFO ] [2019-08-05-10:45:00] [Class-initDriver][Method-getDriver] 当前APP已安装
+[ INFO ] [2019-08-05-10:45:00] [Class-initDriver][Method-getDriver] 调用‘initDriver’方法
+[ INFO ] [2019-08-05-10:45:00] [Class-initDriver][Method-getDriver] 创建DesiredCapabilities对象
+[ INFO ] [2019-08-05-10:45:00] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-DeviceName：Android
+[ INFO ] [2019-08-05-10:45:00] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-appPackagecom.zhihu.android
+[ INFO ] [2019-08-05-10:45:00] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-appActivitycom.zhihu.android.app.ui.activity.LauncherActivity
+[ INFO ] [2019-08-05-10:45:00] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-session超时时间600S
+[ INFO ] [2019-08-05-10:45:00] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-udid超时时间-->88MFBML3H4MH
+[ INFO ] [2019-08-05-10:45:00] [Class-initDriver][Method-getDriver] 启动Andriod Driver,启动在【6569】端口,UUID是：【88MFBML3H4MH】...
+[ INFO ] [2019-08-05-10:45:06] [Class-initDriver][Method-getDriver] 启动Andriod Driver成功...
+[ INFO ] [2019-08-05-10:45:07] [Class-by][Method-by] 当前定位方式是name,定位元素允许
+[ INFO ] [2019-08-05-10:45:21] [Class-homePage][Method-isAllowed] 未定位到元素
+[ INFO ] [2019-08-05-10:45:21] [Class-by][Method-by] 当前定位方式是name,定位元素热榜
+[ INFO ] [2019-08-05-10:45:21] [Class-homePage][Method-hotTopics] hotTopics元素为[[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> name: 热榜]
+[ INFO ] [2019-08-05-10:45:22] [Class-by][Method-by] 当前定位方式是name,定位元素全站
+[ INFO ] [2019-08-05-10:45:23] [Class-homePage][Method-allTopics] allTopics元素为[[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> name: 全站]
+[ INFO ] [2019-08-05-10:45:27] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/ranking_no
+[ INFO ] [2019-08-05-10:45:29] [Class-homePage][Method-top10TopicsNo] top10TopicsNo元素为[[[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/ranking_no]]
+[ INFO ] [2019-08-05-10:45:29] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/title
+[ INFO ] [2019-08-05-10:45:29] [Class-homePage][Method-top10TopicsTitle] top10TopicsTitle元素为[[[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/title]]
+[ INFO ] [2019-08-05-10:45:30] [Class-HomeBuss][Method-buss] 执行第0次滑动，top10TopicsNo为：5
+[ INFO ] [2019-08-05-10:45:30] [Class-pageBase][Method-getWidthAndHeight] 获取到分辨率为：[720, 1280]
+[ INFO ] [2019-08-05-10:45:30] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 640]-->[360 384]
+[ INFO ] [2019-08-05-10:45:31] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/ranking_no
+[ INFO ] [2019-08-05-10:45:32] [Class-homePage][Method-top10TopicsNo] top10TopicsNo元素为[[[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/ranking_no]]
+[ INFO ] [2019-08-05-10:45:32] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/title
+[ INFO ] [2019-08-05-10:45:32] [Class-homePage][Method-top10TopicsTitle] top10TopicsTitle元素为[[[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/title]]
+[ INFO ] [2019-08-05-10:45:33] [Class-HomeBuss][Method-buss] 执行第1次滑动，top10TopicsNo为：6
+[ INFO ] [2019-08-05-10:45:33] [Class-pageBase][Method-getWidthAndHeight] 获取到分辨率为：[720, 1280]
+[ INFO ] [2019-08-05-10:45:33] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 640]-->[360 384]
+[ INFO ] [2019-08-05-10:45:34] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/ranking_no
+[ INFO ] [2019-08-05-10:45:35] [Class-homePage][Method-top10TopicsNo] top10TopicsNo元素为[[[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/ranking_no]]
+[ INFO ] [2019-08-05-10:45:35] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/title
+[ INFO ] [2019-08-05-10:45:35] [Class-homePage][Method-top10TopicsTitle] top10TopicsTitle元素为[[[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/title]]
+[ INFO ] [2019-08-05-10:45:36] [Class-HomeBuss][Method-buss] 执行第2次滑动，top10TopicsNo为：7
+[ INFO ] [2019-08-05-10:45:36] [Class-pageBase][Method-getWidthAndHeight] 获取到分辨率为：[720, 1280]
+[ INFO ] [2019-08-05-10:45:36] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 640]-->[360 384]
+[ INFO ] [2019-08-05-10:45:36] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/ranking_no
+[ INFO ] [2019-08-05-10:45:38] [Class-homePage][Method-top10TopicsNo] top10TopicsNo元素为[[[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/ranking_no]]
+[ INFO ] [2019-08-05-10:45:38] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/title
+[ INFO ] [2019-08-05-10:45:38] [Class-homePage][Method-top10TopicsTitle] top10TopicsTitle元素为[[[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/title]]
+[ INFO ] [2019-08-05-10:45:39] [Class-HomeBuss][Method-buss] 执行第3次滑动，top10TopicsNo为：9
+[ INFO ] [2019-08-05-10:45:39] [Class-pageBase][Method-getWidthAndHeight] 获取到分辨率为：[720, 1280]
+[ INFO ] [2019-08-05-10:45:39] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 640]-->[360 384]
+[ INFO ] [2019-08-05-10:45:39] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/ranking_no
+[ INFO ] [2019-08-05-10:45:41] [Class-homePage][Method-top10TopicsNo] top10TopicsNo元素为[[[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/ranking_no]]
+[ INFO ] [2019-08-05-10:45:41] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/title
+[ INFO ] [2019-08-05-10:45:41] [Class-homePage][Method-top10TopicsTitle] top10TopicsTitle元素为[[[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/title]]
+[ INFO ] [2019-08-05-10:45:41] [Class-HomeBuss][Method-buss] 执行第4次滑动，top10TopicsNo为：9
+[ INFO ] [2019-08-05-10:45:41] [Class-pageBase][Method-getWidthAndHeight] 获取到分辨率为：[720, 1280]
+[ INFO ] [2019-08-05-10:45:41] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 640]-->[360 384]
+[ INFO ] [2019-08-05-10:45:42] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/ranking_no
+[ INFO ] [2019-08-05-10:45:43] [Class-homePage][Method-top10TopicsNo] top10TopicsNo元素为[[[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/ranking_no]]
+[ INFO ] [2019-08-05-10:45:43] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/title
+[ INFO ] [2019-08-05-10:45:43] [Class-homePage][Method-top10TopicsTitle] top10TopicsTitle元素为[[[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/title]]
+[ INFO ] [2019-08-05-10:45:44] [Class-HomeBuss][Method-buss] 执行第5次滑动，top10TopicsNo为：10
+[ INFO ] [2019-08-05-10:45:44] [Class-pageBase][Method-getWidthAndHeight] 获取到分辨率为：[720, 1280]
+[ INFO ] [2019-08-05-10:45:44] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 640]-->[360 384]
+[ INFO ] [2019-08-05-10:45:44] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/ranking_no
+[ INFO ] [2019-08-05-10:45:45] [Class-homePage][Method-top10TopicsNo] top10TopicsNo元素为[[[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/ranking_no]]
+[ INFO ] [2019-08-05-10:45:45] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/title
+[ INFO ] [2019-08-05-10:45:46] [Class-homePage][Method-top10TopicsTitle] top10TopicsTitle元素为[[[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (cdf99e7a-1bb9-43ba-afad-83e6a273fa5c)] -> id: com.zhihu.android:id/title]]
+[ INFO ] [2019-08-05-10:45:46] [Class-HomeBuss][Method-buss] 执行第6次滑动，top10TopicsNo为：12
+[ INFO ] [2019-08-05-18:49:38] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-18:49:38] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-18:49:38] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-18:49:38] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-18:49:38] [Class-startAppiumServer][Method-Map] 清除node进程成功
+[ INFO ] [2019-08-05-18:49:38] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-18:49:38] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-18:49:38] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-18:49:38] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-18:49:38] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-18:49:38] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-18:49:38] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-18:49:38] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-18:49:38] [Class-startAppiumServer][Method-Map] 开始启动Appium-Server
+[ INFO ] [2019-08-05-18:49:38] [Class-startAppiumServer][Method-Map] 启动Appium-Server失败：未获取到分配的端口
+[ INFO ] [2019-08-05-18:49:38] [Class-startAppiumServer][Method-Map] Appium-Server启动完成
+[ INFO ] [2019-08-05-18:49:38] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-18:49:38] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-18:49:38] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-18:49:38] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-18:49:38] [Class-DriverBase] 当前连接上Appium-server的设备UUID是：[]
+[ INFO ] [2019-08-05-18:49:38] [Class-by][Method-by] 当前定位方式是name,定位元素热榜
+[ INFO ] [2019-08-05-18:49:38] [Class-pageBase1][Method-element] 未定位到元素
+[ INFO ] [2019-08-05-18:51:38] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-18:51:38] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-18:51:38] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-18:51:38] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-18:51:38] [Class-startAppiumServer][Method-Map] 清除node进程成功
+[ INFO ] [2019-08-05-18:51:38] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-18:51:38] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-18:51:38] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-18:51:38] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-18:51:38] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-18:51:38] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-18:51:38] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-18:51:38] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-18:51:38] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-18:51:38] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-18:51:38] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-18:51:38] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-18:51:38] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-18:51:38] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-18:51:38] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-18:51:39] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-18:51:39] [Class-startAppiumServer][Method-Map] 开始启动Appium-Server
+[ INFO ] [2019-08-05-18:51:39] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-18:51:39] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-18:51:49] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-18:51:49] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-18:51:49] [Class-startAppiumServer][Method-Map] Appium-Server启动完成
+[ INFO ] [2019-08-05-18:51:49] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-18:51:49] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-18:51:49] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-18:51:49] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-18:51:49] [Class-DriverBase] 当前连接上Appium-server的设备UUID是：[88MFBML3H4MH]
+[ INFO ] [2019-08-05-18:51:49] [Class-DriverBase] 启动的UUID是:[88MFBML3H4MH],启动的Appium端口是：[8381]
+[ INFO ] [2019-08-05-18:51:49] [Class-initDriver][Method-getDriver] 当前APP已安装
+[ INFO ] [2019-08-05-18:51:49] [Class-initDriver][Method-getDriver] 调用‘initDriver’方法
+[ INFO ] [2019-08-05-18:51:49] [Class-initDriver][Method-getDriver] 创建DesiredCapabilities对象
+[ INFO ] [2019-08-05-18:51:49] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-DeviceName：Android
+[ INFO ] [2019-08-05-18:51:49] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-appPackagecom.zhihu.android
+[ INFO ] [2019-08-05-18:51:49] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-appActivitycom.zhihu.android.app.ui.activity.LauncherActivity
+[ INFO ] [2019-08-05-18:51:49] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-session超时时间600S
+[ INFO ] [2019-08-05-18:51:49] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-udid超时时间-->88MFBML3H4MH
+[ INFO ] [2019-08-05-18:51:49] [Class-initDriver][Method-getDriver] 启动Andriod Driver,启动在【8381】端口,UUID是：【88MFBML3H4MH】...
+[ INFO ] [2019-08-05-18:51:56] [Class-initDriver][Method-getDriver] 启动Andriod Driver成功...
+[ INFO ] [2019-08-05-18:51:56] [Class-by][Method-by] 当前定位方式是name,定位元素热榜
+[ INFO ] [2019-08-05-18:52:09] [Class-pageBase1][Method-element] 元素为[[AndroidDriver: Android on LINUX (35878592-02a8-4851-b00c-eec4ca772a6f)] -> name: 热榜]
+[ INFO ] [2019-08-05-18:52:12] [Class-pageBase1][Method-click] 点击元素-->[[AndroidDriver: Android on LINUX (35878592-02a8-4851-b00c-eec4ca772a6f)] -> name: 热榜]
+[ INFO ] [2019-08-05-18:52:12] [Class-by][Method-by] 当前定位方式是name,定位元素全站
+[ INFO ] [2019-08-05-18:52:14] [Class-pageBase1][Method-element] 元素为[[AndroidDriver: Android on LINUX (35878592-02a8-4851-b00c-eec4ca772a6f)] -> name: 全站]
+[ INFO ] [2019-08-05-18:52:14] [Class-pageBase1][Method-click] 点击元素-->[[AndroidDriver: Android on LINUX (35878592-02a8-4851-b00c-eec4ca772a6f)] -> name: 全站]
+[ INFO ] [2019-08-05-18:52:14] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/ranking_no
+[ INFO ] [2019-08-05-18:52:17] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (35878592-02a8-4851-b00c-eec4ca772a6f)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (35878592-02a8-4851-b00c-eec4ca772a6f)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (35878592-02a8-4851-b00c-eec4ca772a6f)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (35878592-02a8-4851-b00c-eec4ca772a6f)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (35878592-02a8-4851-b00c-eec4ca772a6f)] -> id: com.zhihu.android:id/ranking_no]]
+[ INFO ] [2019-08-05-18:52:17] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/title
+[ INFO ] [2019-08-05-18:52:17] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (35878592-02a8-4851-b00c-eec4ca772a6f)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (35878592-02a8-4851-b00c-eec4ca772a6f)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (35878592-02a8-4851-b00c-eec4ca772a6f)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (35878592-02a8-4851-b00c-eec4ca772a6f)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (35878592-02a8-4851-b00c-eec4ca772a6f)] -> id: com.zhihu.android:id/title]]
+[ INFO ] [2019-08-05-18:52:18] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：1，获取到的top10TopicsTitle为：如何看待河南固始村民哄抢 33 吨井盖，当地警方认为不构成犯罪？
+[ INFO ] [2019-08-05-18:52:18] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：2，获取到的top10TopicsTitle为：为什么「丧文化」在年轻人中这么流行？
+[ INFO ] [2019-08-05-18:52:18] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：3，获取到的top10TopicsTitle为：经常看书的人和不看书的人有什么区别？
+[ INFO ] [2019-08-05-18:52:19] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：4，获取到的top10TopicsTitle为：如何看待乔碧罗被斗鱼封停直播间后，转投 B 站再遭封禁？
+[ INFO ] [2019-08-05-18:52:19] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：5，获取到的top10TopicsTitle为：《哪吒之魔童降世》中哪吒，放漫威是什么水平？
+[ INFO ] [2019-08-05-18:52:19] [Class-pageBase][Method-getWidthAndHeight] 获取到分辨率为：[720, 1280]
+[ INFO ] [2019-08-05-18:52:19] [Class-HomeBuss1][Method-Map] 获取到的屏幕分辨率为：[720,1280]
+[ INFO ] [2019-08-05-18:52:19] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 768]-->[360 384]
+[ INFO ] [2019-08-05-18:52:21] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：3，获取到的top10TopicsTitle为：经常看书的人和不看书的人有什么区别？
+[ INFO ] [2019-08-05-18:52:21] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：4，获取到的top10TopicsTitle为：如何看待乔碧罗被斗鱼封停直播间后，转投 B 站再遭封禁？
+[ INFO ] [2019-08-05-18:52:21] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：5，获取到的top10TopicsTitle为：《哪吒之魔童降世》中哪吒，放漫威是什么水平？
+[ INFO ] [2019-08-05-18:52:21] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：6，获取到的top10TopicsTitle为：为什么有的男人穿西装像金融才俊，有的却像地产中介？
+[ INFO ] [2019-08-05-18:52:22] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：7，获取到的top10TopicsTitle为：徐州女教师绝笔信事件反映了哪些问题？引发了哪些思考？
+[ INFO ] [2019-08-05-18:52:22] [Class-pageBase][Method-getWidthAndHeight] 获取到分辨率为：[720, 1280]
+[ INFO ] [2019-08-05-18:52:22] [Class-HomeBuss1][Method-Map] 获取到的屏幕分辨率为：[720,1280]
+[ INFO ] [2019-08-05-18:52:22] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 768]-->[360 384]
+[ INFO ] [2019-08-05-18:52:23] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：5，获取到的top10TopicsTitle为：《哪吒之魔童降世》中哪吒，放漫威是什么水平？
+[ INFO ] [2019-08-05-18:52:24] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：6，获取到的top10TopicsTitle为：为什么有的男人穿西装像金融才俊，有的却像地产中介？
+[ INFO ] [2019-08-05-18:52:24] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：7，获取到的top10TopicsTitle为：徐州女教师绝笔信事件反映了哪些问题？引发了哪些思考？
+[ INFO ] [2019-08-05-18:52:24] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：8，获取到的top10TopicsTitle为：便利店利润究竟有多高？为什么有人放弃年薪 20 万的工作去开便利店？
+[ INFO ] [2019-08-05-18:54:26] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-18:54:26] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-18:54:26] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-18:54:26] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-18:54:26] [Class-startAppiumServer][Method-Map] 清除node进程成功
+[ INFO ] [2019-08-05-18:54:26] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-18:54:26] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-18:54:26] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-18:54:26] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-18:54:26] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-18:54:26] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-18:54:26] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-18:54:27] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-18:54:27] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-18:54:27] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-18:54:27] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-18:54:27] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-18:54:27] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-18:54:27] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-18:54:27] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-18:54:27] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-18:54:27] [Class-startAppiumServer][Method-Map] 开始启动Appium-Server
+[ INFO ] [2019-08-05-18:54:27] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-18:54:27] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-18:54:37] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-18:54:37] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-18:54:37] [Class-startAppiumServer][Method-Map] Appium-Server启动完成
+[ INFO ] [2019-08-05-18:54:37] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-18:54:37] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-18:54:37] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-18:54:37] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-18:54:37] [Class-DriverBase] 当前连接上Appium-server的设备UUID是：[88MFBML3H4MH]
+[ INFO ] [2019-08-05-18:54:37] [Class-DriverBase] 启动的UUID是:[88MFBML3H4MH],启动的Appium端口是：[6598]
+[ INFO ] [2019-08-05-18:54:37] [Class-initDriver][Method-getDriver] 当前APP已安装
+[ INFO ] [2019-08-05-18:54:37] [Class-initDriver][Method-getDriver] 调用‘initDriver’方法
+[ INFO ] [2019-08-05-18:54:37] [Class-initDriver][Method-getDriver] 创建DesiredCapabilities对象
+[ INFO ] [2019-08-05-18:54:37] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-DeviceName：Android
+[ INFO ] [2019-08-05-18:54:37] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-appPackagecom.zhihu.android
+[ INFO ] [2019-08-05-18:54:37] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-appActivitycom.zhihu.android.app.ui.activity.LauncherActivity
+[ INFO ] [2019-08-05-18:54:37] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-session超时时间600S
+[ INFO ] [2019-08-05-18:54:37] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-udid超时时间-->88MFBML3H4MH
+[ INFO ] [2019-08-05-18:54:37] [Class-initDriver][Method-getDriver] 启动Andriod Driver,启动在【6598】端口,UUID是：【88MFBML3H4MH】...
+[ INFO ] [2019-08-05-18:54:44] [Class-initDriver][Method-getDriver] 启动Andriod Driver成功...
+[ INFO ] [2019-08-05-18:54:44] [Class-by][Method-by] 当前定位方式是name,定位元素热榜
+[ INFO ] [2019-08-05-18:54:53] [Class-pageBase1][Method-element] 元素为[[AndroidDriver: Android on LINUX (43e85119-8d37-4803-a0e4-ac1fc76991db)] -> name: 热榜]
+[ INFO ] [2019-08-05-18:54:57] [Class-pageBase1][Method-click] 点击元素-->[[AndroidDriver: Android on LINUX (43e85119-8d37-4803-a0e4-ac1fc76991db)] -> name: 热榜]
+[ INFO ] [2019-08-05-18:54:57] [Class-by][Method-by] 当前定位方式是name,定位元素全站
+[ INFO ] [2019-08-05-18:54:58] [Class-pageBase1][Method-element] 元素为[[AndroidDriver: Android on LINUX (43e85119-8d37-4803-a0e4-ac1fc76991db)] -> name: 全站]
+[ INFO ] [2019-08-05-18:54:58] [Class-pageBase1][Method-click] 点击元素-->[[AndroidDriver: Android on LINUX (43e85119-8d37-4803-a0e4-ac1fc76991db)] -> name: 全站]
+[ INFO ] [2019-08-05-18:54:58] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/ranking_no
+[ INFO ] [2019-08-05-18:55:01] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (43e85119-8d37-4803-a0e4-ac1fc76991db)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (43e85119-8d37-4803-a0e4-ac1fc76991db)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (43e85119-8d37-4803-a0e4-ac1fc76991db)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (43e85119-8d37-4803-a0e4-ac1fc76991db)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (43e85119-8d37-4803-a0e4-ac1fc76991db)] -> id: com.zhihu.android:id/ranking_no]]
+[ INFO ] [2019-08-05-18:55:01] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/title
+[ INFO ] [2019-08-05-18:55:01] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (43e85119-8d37-4803-a0e4-ac1fc76991db)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (43e85119-8d37-4803-a0e4-ac1fc76991db)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (43e85119-8d37-4803-a0e4-ac1fc76991db)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (43e85119-8d37-4803-a0e4-ac1fc76991db)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (43e85119-8d37-4803-a0e4-ac1fc76991db)] -> id: com.zhihu.android:id/title]]
+[ INFO ] [2019-08-05-18:55:02] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：1，获取到的top10TopicsTitle为：如何看待河南固始村民哄抢 33 吨井盖，当地警方认为不构成犯罪？
+[ INFO ] [2019-08-05-18:55:02] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：2，获取到的top10TopicsTitle为：为什么「丧文化」在年轻人中这么流行？
+[ INFO ] [2019-08-05-18:55:02] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：3，获取到的top10TopicsTitle为：经常看书的人和不看书的人有什么区别？
+[ INFO ] [2019-08-05-18:55:02] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：4，获取到的top10TopicsTitle为：如何看待乔碧罗被斗鱼封停直播间后，转投 B 站再遭封禁？
+[ INFO ] [2019-08-05-18:55:03] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：5，获取到的top10TopicsTitle为：为什么有的男人穿西装像金融才俊，有的却像地产中介？
+[ INFO ] [2019-08-05-18:55:03] [Class-pageBase][Method-getWidthAndHeight] 获取到分辨率为：[720, 1280]
+[ INFO ] [2019-08-05-18:55:03] [Class-HomeBuss1][Method-Map] 获取到的屏幕分辨率为：[720,1280]
+[ INFO ] [2019-08-05-18:55:03] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 640]-->[360 384]
+[ INFO ] [2019-08-05-18:55:04] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：2，获取到的top10TopicsTitle为：为什么「丧文化」在年轻人中这么流行？
+[ INFO ] [2019-08-05-18:55:05] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：3，获取到的top10TopicsTitle为：经常看书的人和不看书的人有什么区别？
+[ INFO ] [2019-08-05-18:55:05] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：4，获取到的top10TopicsTitle为：如何看待乔碧罗被斗鱼封停直播间后，转投 B 站再遭封禁？
+[ INFO ] [2019-08-05-18:55:06] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：5，获取到的top10TopicsTitle为：为什么有的男人穿西装像金融才俊，有的却像地产中介？
+[ INFO ] [2019-08-05-18:55:06] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：6，获取到的top10TopicsTitle为：《哪吒之魔童降世》中哪吒，放漫威是什么水平？
+[ INFO ] [2019-08-05-18:55:06] [Class-pageBase][Method-getWidthAndHeight] 获取到分辨率为：[720, 1280]
+[ INFO ] [2019-08-05-18:55:06] [Class-HomeBuss1][Method-Map] 获取到的屏幕分辨率为：[720,1280]
+[ INFO ] [2019-08-05-18:55:07] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 640]-->[360 384]
+[ INFO ] [2019-08-05-18:55:08] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：3，获取到的top10TopicsTitle为：经常看书的人和不看书的人有什么区别？
+[ INFO ] [2019-08-05-18:55:08] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：4，获取到的top10TopicsTitle为：如何看待乔碧罗被斗鱼封停直播间后，转投 B 站再遭封禁？
+[ INFO ] [2019-08-05-18:55:08] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：5，获取到的top10TopicsTitle为：为什么有的男人穿西装像金融才俊，有的却像地产中介？
+[ INFO ] [2019-08-05-18:55:08] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：6，获取到的top10TopicsTitle为：《哪吒之魔童降世》中哪吒，放漫威是什么水平？
+[ INFO ] [2019-08-05-18:55:09] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：7，获取到的top10TopicsTitle为：徐州女教师绝笔信事件反映了哪些问题？引发了哪些思考？
+[ INFO ] [2019-08-05-18:55:09] [Class-pageBase][Method-getWidthAndHeight] 获取到分辨率为：[720, 1280]
+[ INFO ] [2019-08-05-18:55:09] [Class-HomeBuss1][Method-Map] 获取到的屏幕分辨率为：[720,1280]
+[ INFO ] [2019-08-05-18:55:09] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 640]-->[360 384]
+[ INFO ] [2019-08-05-18:55:10] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：5，获取到的top10TopicsTitle为：如何看待乔碧罗被斗鱼封停直播间后，转投 B 站再遭封禁？
+[ INFO ] [2019-08-05-18:55:11] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：6，获取到的top10TopicsTitle为：为什么有的男人穿西装像金融才俊，有的却像地产中介？
+[ INFO ] [2019-08-05-18:55:11] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：7，获取到的top10TopicsTitle为：《哪吒之魔童降世》中哪吒，放漫威是什么水平？
+[ INFO ] [2019-08-05-18:55:11] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：8，获取到的top10TopicsTitle为：徐州女教师绝笔信事件反映了哪些问题？引发了哪些思考？
+[ INFO ] [2019-08-05-19:06:11] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:06:11] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:06:11] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:06:11] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:06:11] [Class-startAppiumServer][Method-Map] 清除node进程成功
+[ INFO ] [2019-08-05-19:06:11] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:06:11] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:06:11] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:06:11] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:06:11] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:06:11] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:06:11] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:06:11] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:06:11] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:06:11] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:06:11] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:06:11] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:06:11] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:06:11] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:06:11] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:06:11] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:06:11] [Class-startAppiumServer][Method-Map] 开始启动Appium-Server
+[ INFO ] [2019-08-05-19:06:11] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:06:12] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:06:22] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:06:22] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:06:22] [Class-startAppiumServer][Method-Map] Appium-Server启动完成
+[ INFO ] [2019-08-05-19:06:22] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:06:22] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:06:22] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:06:22] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:06:22] [Class-DriverBase] 当前连接上Appium-server的设备UUID是：[88MFBML3H4MH]
+[ INFO ] [2019-08-05-19:06:22] [Class-DriverBase] 启动的UUID是:[88MFBML3H4MH],启动的Appium端口是：[9265]
+[ INFO ] [2019-08-05-19:06:22] [Class-initDriver][Method-getDriver] 当前APP已安装
+[ INFO ] [2019-08-05-19:06:22] [Class-initDriver][Method-getDriver] 调用‘initDriver’方法
+[ INFO ] [2019-08-05-19:06:22] [Class-initDriver][Method-getDriver] 创建DesiredCapabilities对象
+[ INFO ] [2019-08-05-19:06:22] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-DeviceName：Android
+[ INFO ] [2019-08-05-19:06:22] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-appPackagecom.zhihu.android
+[ INFO ] [2019-08-05-19:06:22] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-appActivitycom.zhihu.android.app.ui.activity.LauncherActivity
+[ INFO ] [2019-08-05-19:06:22] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-session超时时间600S
+[ INFO ] [2019-08-05-19:06:22] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-udid超时时间-->88MFBML3H4MH
+[ INFO ] [2019-08-05-19:06:22] [Class-initDriver][Method-getDriver] 启动Andriod Driver,启动在【9265】端口,UUID是：【88MFBML3H4MH】...
+[ INFO ] [2019-08-05-19:06:29] [Class-initDriver][Method-getDriver] 启动Andriod Driver成功...
+[ INFO ] [2019-08-05-19:06:29] [Class-by][Method-by] 当前定位方式是name,定位元素热榜
+[ INFO ] [2019-08-05-19:06:40] [Class-pageBase1][Method-element] 元素为[[AndroidDriver: Android on LINUX (2a17a484-c251-43e9-8dbd-620272ad8c9c)] -> name: 热榜]
+[ INFO ] [2019-08-05-19:06:41] [Class-pageBase1][Method-click] 点击元素-->[[AndroidDriver: Android on LINUX (2a17a484-c251-43e9-8dbd-620272ad8c9c)] -> name: 热榜]
+[ INFO ] [2019-08-05-19:06:41] [Class-by][Method-by] 当前定位方式是name,定位元素全站
+[ INFO ] [2019-08-05-19:06:41] [Class-pageBase1][Method-element] 元素为[[AndroidDriver: Android on LINUX (2a17a484-c251-43e9-8dbd-620272ad8c9c)] -> name: 全站]
+[ INFO ] [2019-08-05-19:06:42] [Class-pageBase1][Method-click] 点击元素-->[[AndroidDriver: Android on LINUX (2a17a484-c251-43e9-8dbd-620272ad8c9c)] -> name: 全站]
+[ INFO ] [2019-08-05-19:06:42] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/ranking_no
+[ INFO ] [2019-08-05-19:06:44] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (2a17a484-c251-43e9-8dbd-620272ad8c9c)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (2a17a484-c251-43e9-8dbd-620272ad8c9c)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (2a17a484-c251-43e9-8dbd-620272ad8c9c)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (2a17a484-c251-43e9-8dbd-620272ad8c9c)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (2a17a484-c251-43e9-8dbd-620272ad8c9c)] -> id: com.zhihu.android:id/ranking_no]]
+[ INFO ] [2019-08-05-19:06:44] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/title
+[ INFO ] [2019-08-05-19:06:44] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (2a17a484-c251-43e9-8dbd-620272ad8c9c)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (2a17a484-c251-43e9-8dbd-620272ad8c9c)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (2a17a484-c251-43e9-8dbd-620272ad8c9c)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (2a17a484-c251-43e9-8dbd-620272ad8c9c)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (2a17a484-c251-43e9-8dbd-620272ad8c9c)] -> id: com.zhihu.android:id/title]]
+[ INFO ] [2019-08-05-19:06:44] [Class-pageBase][Method-getWidthAndHeight] 获取到分辨率为：[720, 1280]
+[ INFO ] [2019-08-05-19:06:44] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：1，获取到的top10TopicsTitle为：如何看待河南固始村民哄抢 33 吨井盖，当地警方认为不构成犯罪？
+[ INFO ] [2019-08-05-19:06:45] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：2，获取到的top10TopicsTitle为：为什么「丧文化」在年轻人中这么流行？
+[ INFO ] [2019-08-05-19:06:45] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：3，获取到的top10TopicsTitle为：经常看书的人和不看书的人有什么区别？
+[ INFO ] [2019-08-05-19:06:46] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：4，获取到的top10TopicsTitle为：如何看待乔碧罗被斗鱼封停直播间后，转投 B 站再遭封禁？
+[ INFO ] [2019-08-05-19:06:46] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：5，获取到的top10TopicsTitle为：徐州女教师绝笔信事件反映了哪些问题？引发了哪些思考？
+[ INFO ] [2019-08-05-19:06:46] [Class-HomeBuss1][Method-Map] 获取到的屏幕分辨率为：[720,1280]
+[ INFO ] [2019-08-05-19:06:46] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 640]-->[360 384]
+[ INFO ] [2019-08-05-19:06:47] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：2，获取到的top10TopicsTitle为：为什么「丧文化」在年轻人中这么流行？
+[ INFO ] [2019-08-05-19:06:48] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：3，获取到的top10TopicsTitle为：经常看书的人和不看书的人有什么区别？
+[ INFO ] [2019-08-05-19:06:48] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：4，获取到的top10TopicsTitle为：如何看待乔碧罗被斗鱼封停直播间后，转投 B 站再遭封禁？
+[ INFO ] [2019-08-05-19:06:48] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：5，获取到的top10TopicsTitle为：徐州女教师绝笔信事件反映了哪些问题？引发了哪些思考？
+[ INFO ] [2019-08-05-19:06:48] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：6，获取到的top10TopicsTitle为：为什么有的男人穿西装像金融才俊，有的却像地产中介？
+[ INFO ] [2019-08-05-19:06:48] [Class-HomeBuss1][Method-Map] 获取到的屏幕分辨率为：[720,1280]
+[ INFO ] [2019-08-05-19:06:49] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 640]-->[360 384]
+[ INFO ] [2019-08-05-19:06:50] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：4，获取到的top10TopicsTitle为：如何看待乔碧罗被斗鱼封停直播间后，转投 B 站再遭封禁？
+[ INFO ] [2019-08-05-19:06:50] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：5，获取到的top10TopicsTitle为：徐州女教师绝笔信事件反映了哪些问题？引发了哪些思考？
+[ INFO ] [2019-08-05-19:06:51] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：6，获取到的top10TopicsTitle为：为什么有的男人穿西装像金融才俊，有的却像地产中介？
+[ INFO ] [2019-08-05-19:06:51] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：7，获取到的top10TopicsTitle为：《哪吒之魔童降世》中哪吒，放漫威是什么水平？
+[ INFO ] [2019-08-05-19:11:32] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:11:32] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:11:32] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:11:32] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:11:32] [Class-startAppiumServer][Method-Map] 清除node进程成功
+[ INFO ] [2019-08-05-19:11:32] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:11:32] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:11:32] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:11:32] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:11:32] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:11:32] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:11:32] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:11:32] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:11:32] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:11:32] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:11:32] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:11:32] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:11:32] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:11:32] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:11:32] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:11:32] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:11:32] [Class-startAppiumServer][Method-Map] 开始启动Appium-Server
+[ INFO ] [2019-08-05-19:11:32] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:11:33] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:11:43] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:11:43] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:11:43] [Class-startAppiumServer][Method-Map] Appium-Server启动完成
+[ INFO ] [2019-08-05-19:11:43] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:11:43] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:11:43] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:11:43] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:11:43] [Class-DriverBase] 当前连接上Appium-server的设备UUID是：[88MFBML3H4MH]
+[ INFO ] [2019-08-05-19:11:43] [Class-DriverBase] 启动的UUID是:[88MFBML3H4MH],启动的Appium端口是：[2111]
+[ INFO ] [2019-08-05-19:11:43] [Class-initDriver][Method-getDriver] 当前APP已安装
+[ INFO ] [2019-08-05-19:11:43] [Class-initDriver][Method-getDriver] 调用‘initDriver’方法
+[ INFO ] [2019-08-05-19:11:43] [Class-initDriver][Method-getDriver] 创建DesiredCapabilities对象
+[ INFO ] [2019-08-05-19:11:43] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-DeviceName：Android
+[ INFO ] [2019-08-05-19:11:43] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-appPackagecom.zhihu.android
+[ INFO ] [2019-08-05-19:11:43] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-appActivitycom.zhihu.android.app.ui.activity.LauncherActivity
+[ INFO ] [2019-08-05-19:11:43] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-session超时时间600S
+[ INFO ] [2019-08-05-19:11:43] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-udid超时时间-->88MFBML3H4MH
+[ INFO ] [2019-08-05-19:11:43] [Class-initDriver][Method-getDriver] 启动Andriod Driver,启动在【2111】端口,UUID是：【88MFBML3H4MH】...
+[ INFO ] [2019-08-05-19:11:50] [Class-initDriver][Method-getDriver] 启动Andriod Driver成功...
+[ INFO ] [2019-08-05-19:11:50] [Class-by][Method-by] 当前定位方式是name,定位元素热榜
+[ INFO ] [2019-08-05-19:12:01] [Class-pageBase1][Method-element] 元素为[[AndroidDriver: Android on LINUX (c86904ad-1a4e-4e15-8cad-027f2c9f9a95)] -> name: 热榜]
+[ INFO ] [2019-08-05-19:12:03] [Class-pageBase1][Method-click] 点击元素-->[[AndroidDriver: Android on LINUX (c86904ad-1a4e-4e15-8cad-027f2c9f9a95)] -> name: 热榜]
+[ INFO ] [2019-08-05-19:12:03] [Class-by][Method-by] 当前定位方式是name,定位元素全站
+[ INFO ] [2019-08-05-19:12:04] [Class-pageBase1][Method-element] 元素为[[AndroidDriver: Android on LINUX (c86904ad-1a4e-4e15-8cad-027f2c9f9a95)] -> name: 全站]
+[ INFO ] [2019-08-05-19:12:05] [Class-pageBase1][Method-click] 点击元素-->[[AndroidDriver: Android on LINUX (c86904ad-1a4e-4e15-8cad-027f2c9f9a95)] -> name: 全站]
+[ INFO ] [2019-08-05-19:12:05] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/ranking_no
+[ INFO ] [2019-08-05-19:12:07] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (c86904ad-1a4e-4e15-8cad-027f2c9f9a95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (c86904ad-1a4e-4e15-8cad-027f2c9f9a95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (c86904ad-1a4e-4e15-8cad-027f2c9f9a95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (c86904ad-1a4e-4e15-8cad-027f2c9f9a95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (c86904ad-1a4e-4e15-8cad-027f2c9f9a95)] -> id: com.zhihu.android:id/ranking_no]]
+[ INFO ] [2019-08-05-19:12:07] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/title
+[ INFO ] [2019-08-05-19:12:07] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (c86904ad-1a4e-4e15-8cad-027f2c9f9a95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (c86904ad-1a4e-4e15-8cad-027f2c9f9a95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (c86904ad-1a4e-4e15-8cad-027f2c9f9a95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (c86904ad-1a4e-4e15-8cad-027f2c9f9a95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (c86904ad-1a4e-4e15-8cad-027f2c9f9a95)] -> id: com.zhihu.android:id/title]]
+[ INFO ] [2019-08-05-19:12:07] [Class-pageBase][Method-getWidthAndHeight] 获取到分辨率为：[720, 1280]
+[ INFO ] [2019-08-05-19:12:07] [Class-HomeBuss1][Method-Map] 获取到的屏幕分辨率为：[720,1280]
+[ INFO ] [2019-08-05-19:12:07] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：1，获取到的top10TopicsTitle为：如何看待河南固始村民哄抢 33 吨井盖，当地警方认为不构成犯罪？
+[ INFO ] [2019-08-05-19:12:08] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：2，获取到的top10TopicsTitle为：为什么「丧文化」在年轻人中这么流行？
+[ INFO ] [2019-08-05-19:12:08] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：3，获取到的top10TopicsTitle为：经常看书的人和不看书的人有什么区别？
+[ INFO ] [2019-08-05-19:12:08] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：4，获取到的top10TopicsTitle为：如何看待乔碧罗被斗鱼封停直播间后，转投 B 站再遭封禁？
+[ INFO ] [2019-08-05-19:12:08] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：5，获取到的top10TopicsTitle为：徐州女教师绝笔信事件反映了哪些问题？引发了哪些思考？
+[ INFO ] [2019-08-05-19:12:09] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 640]-->[360 512]
+[ INFO ] [2019-08-05-19:12:10] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：1，获取到的top10TopicsTitle为：如何看待河南固始村民哄抢 33 吨井盖，当地警方认为不构成犯罪？
+[ INFO ] [2019-08-05-19:12:10] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：2，获取到的top10TopicsTitle为：为什么「丧文化」在年轻人中这么流行？
+[ INFO ] [2019-08-05-19:12:10] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：3，获取到的top10TopicsTitle为：经常看书的人和不看书的人有什么区别？
+[ INFO ] [2019-08-05-19:12:11] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：4，获取到的top10TopicsTitle为：如何看待乔碧罗被斗鱼封停直播间后，转投 B 站再遭封禁？
+[ INFO ] [2019-08-05-19:12:11] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：5，获取到的top10TopicsTitle为：徐州女教师绝笔信事件反映了哪些问题？引发了哪些思考？
+[ INFO ] [2019-08-05-19:12:12] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 640]-->[360 512]
+[ INFO ] [2019-08-05-19:12:13] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：2，获取到的top10TopicsTitle为：如何看待河南固始村民哄抢 33 吨井盖，当地警方认为不构成犯罪？
+[ INFO ] [2019-08-05-19:12:13] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：3，获取到的top10TopicsTitle为：为什么「丧文化」在年轻人中这么流行？
+[ INFO ] [2019-08-05-19:12:13] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：4，获取到的top10TopicsTitle为：经常看书的人和不看书的人有什么区别？
+[ INFO ] [2019-08-05-19:12:14] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：5，获取到的top10TopicsTitle为：如何看待乔碧罗被斗鱼封停直播间后，转投 B 站再遭封禁？
+[ INFO ] [2019-08-05-19:15:25] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:15:26] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:15:26] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:15:26] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:15:26] [Class-startAppiumServer][Method-Map] 清除node进程成功
+[ INFO ] [2019-08-05-19:15:26] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:15:26] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:15:26] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:15:26] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:15:26] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:15:26] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:15:26] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:15:26] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:15:26] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:15:26] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:15:26] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:15:26] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:15:26] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:15:26] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:15:26] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:15:26] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:15:26] [Class-startAppiumServer][Method-Map] 开始启动Appium-Server
+[ INFO ] [2019-08-05-19:15:26] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:15:26] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:15:36] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:15:36] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:15:36] [Class-startAppiumServer][Method-Map] Appium-Server启动完成
+[ INFO ] [2019-08-05-19:15:36] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:15:36] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:15:36] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:15:36] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:15:36] [Class-DriverBase] 当前连接上Appium-server的设备UUID是：[88MFBML3H4MH]
+[ INFO ] [2019-08-05-19:15:36] [Class-DriverBase] 启动的UUID是:[88MFBML3H4MH],启动的Appium端口是：[1653]
+[ INFO ] [2019-08-05-19:15:36] [Class-initDriver][Method-getDriver] 当前APP已安装
+[ INFO ] [2019-08-05-19:15:36] [Class-initDriver][Method-getDriver] 调用‘initDriver’方法
+[ INFO ] [2019-08-05-19:15:36] [Class-initDriver][Method-getDriver] 创建DesiredCapabilities对象
+[ INFO ] [2019-08-05-19:15:36] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-DeviceName：Android
+[ INFO ] [2019-08-05-19:15:37] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-appPackagecom.zhihu.android
+[ INFO ] [2019-08-05-19:15:37] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-appActivitycom.zhihu.android.app.ui.activity.LauncherActivity
+[ INFO ] [2019-08-05-19:15:37] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-session超时时间600S
+[ INFO ] [2019-08-05-19:15:37] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-udid超时时间-->88MFBML3H4MH
+[ INFO ] [2019-08-05-19:15:37] [Class-initDriver][Method-getDriver] 启动Andriod Driver,启动在【1653】端口,UUID是：【88MFBML3H4MH】...
+[ INFO ] [2019-08-05-19:15:43] [Class-initDriver][Method-getDriver] 启动Andriod Driver成功...
+[ INFO ] [2019-08-05-19:15:43] [Class-by][Method-by] 当前定位方式是name,定位元素热榜
+[ INFO ] [2019-08-05-19:15:55] [Class-pageBase1][Method-element] 元素为[[AndroidDriver: Android on LINUX (e499d8ff-08c8-4df4-88d7-3678b9759552)] -> name: 热榜]
+[ INFO ] [2019-08-05-19:15:58] [Class-pageBase1][Method-click] 点击元素-->[[AndroidDriver: Android on LINUX (e499d8ff-08c8-4df4-88d7-3678b9759552)] -> name: 热榜]
+[ INFO ] [2019-08-05-19:15:58] [Class-by][Method-by] 当前定位方式是name,定位元素全站
+[ INFO ] [2019-08-05-19:15:59] [Class-pageBase1][Method-element] 元素为[[AndroidDriver: Android on LINUX (e499d8ff-08c8-4df4-88d7-3678b9759552)] -> name: 全站]
+[ INFO ] [2019-08-05-19:16:00] [Class-pageBase1][Method-click] 点击元素-->[[AndroidDriver: Android on LINUX (e499d8ff-08c8-4df4-88d7-3678b9759552)] -> name: 全站]
+[ INFO ] [2019-08-05-19:16:00] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/ranking_no
+[ INFO ] [2019-08-05-19:16:02] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (e499d8ff-08c8-4df4-88d7-3678b9759552)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e499d8ff-08c8-4df4-88d7-3678b9759552)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e499d8ff-08c8-4df4-88d7-3678b9759552)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e499d8ff-08c8-4df4-88d7-3678b9759552)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e499d8ff-08c8-4df4-88d7-3678b9759552)] -> id: com.zhihu.android:id/ranking_no]]
+[ INFO ] [2019-08-05-19:16:02] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/title
+[ INFO ] [2019-08-05-19:16:02] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (e499d8ff-08c8-4df4-88d7-3678b9759552)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e499d8ff-08c8-4df4-88d7-3678b9759552)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e499d8ff-08c8-4df4-88d7-3678b9759552)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e499d8ff-08c8-4df4-88d7-3678b9759552)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e499d8ff-08c8-4df4-88d7-3678b9759552)] -> id: com.zhihu.android:id/title]]
+[ INFO ] [2019-08-05-19:16:03] [Class-pageBase][Method-getWidthAndHeight] 获取到分辨率为：[720, 1280]
+[ INFO ] [2019-08-05-19:16:03] [Class-HomeBuss1][Method-Map] 获取到的屏幕分辨率为：[720,1280]
+[ INFO ] [2019-08-05-19:16:03] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：1，获取到的top10TopicsTitle为：如何看待河南固始村民哄抢 33 吨井盖，当地警方认为不构成犯罪？
+[ INFO ] [2019-08-05-19:16:03] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：2，获取到的top10TopicsTitle为：为什么「丧文化」在年轻人中这么流行？
+[ INFO ] [2019-08-05-19:16:03] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：3，获取到的top10TopicsTitle为：经常看书的人和不看书的人有什么区别？
+[ INFO ] [2019-08-05-19:16:04] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：4，获取到的top10TopicsTitle为：如何看待乔碧罗被斗鱼封停直播间后，转投 B 站再遭封禁？
+[ INFO ] [2019-08-05-19:16:04] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：5，获取到的top10TopicsTitle为：为什么有的男人穿西装像金融才俊，有的却像地产中介？
+[ INFO ] [2019-08-05-19:16:05] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 640]-->[360 512]
+[ INFO ] [2019-08-05-19:16:06] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：1，获取到的top10TopicsTitle为：如何看待河南固始村民哄抢 33 吨井盖，当地警方认为不构成犯罪？
+[ INFO ] [2019-08-05-19:16:06] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：2，获取到的top10TopicsTitle为：为什么「丧文化」在年轻人中这么流行？
+[ INFO ] [2019-08-05-19:16:06] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：3，获取到的top10TopicsTitle为：经常看书的人和不看书的人有什么区别？
+[ INFO ] [2019-08-05-19:16:06] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：4，获取到的top10TopicsTitle为：如何看待乔碧罗被斗鱼封停直播间后，转投 B 站再遭封禁？
+[ INFO ] [2019-08-05-19:16:06] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：5，获取到的top10TopicsTitle为：为什么有的男人穿西装像金融才俊，有的却像地产中介？
+[ INFO ] [2019-08-05-19:16:07] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 640]-->[360 512]
+[ INFO ] [2019-08-05-19:16:09] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：2，获取到的top10TopicsTitle为：如何看待河南固始村民哄抢 33 吨井盖，当地警方认为不构成犯罪？
+[ INFO ] [2019-08-05-19:16:09] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：3，获取到的top10TopicsTitle为：为什么「丧文化」在年轻人中这么流行？
+[ INFO ] [2019-08-05-19:16:09] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：4，获取到的top10TopicsTitle为：经常看书的人和不看书的人有什么区别？
+[ INFO ] [2019-08-05-19:16:10] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：5，获取到的top10TopicsTitle为：如何看待乔碧罗被斗鱼封停直播间后，转投 B 站再遭封禁？
+[ INFO ] [2019-08-05-19:39:06] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:39:06] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:39:06] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:39:06] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:39:06] [Class-startAppiumServer][Method-Map] 清除node进程成功
+[ INFO ] [2019-08-05-19:39:06] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:39:06] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:39:06] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:39:07] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:39:07] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:39:07] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:39:07] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:39:07] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:39:07] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:39:07] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:39:07] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:39:07] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:39:07] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:39:07] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:39:07] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:39:07] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:39:07] [Class-startAppiumServer][Method-Map] 开始启动Appium-Server
+[ INFO ] [2019-08-05-19:39:07] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:39:07] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:39:17] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:39:17] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:39:17] [Class-startAppiumServer][Method-Map] Appium-Server启动完成
+[ INFO ] [2019-08-05-19:39:17] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:39:17] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:39:17] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:39:17] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:39:17] [Class-DriverBase] 当前连接上Appium-server的设备UUID是：[88MFBML3H4MH]
+[ INFO ] [2019-08-05-19:39:17] [Class-DriverBase] 启动的UUID是:[88MFBML3H4MH],启动的Appium端口是：[8239]
+[ INFO ] [2019-08-05-19:39:17] [Class-initDriver][Method-getDriver] 当前APP已安装
+[ INFO ] [2019-08-05-19:39:17] [Class-initDriver][Method-getDriver] 调用‘initDriver’方法
+[ INFO ] [2019-08-05-19:39:17] [Class-initDriver][Method-getDriver] 创建DesiredCapabilities对象
+[ INFO ] [2019-08-05-19:39:17] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-DeviceName：Android
+[ INFO ] [2019-08-05-19:39:17] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-appPackagecom.zhihu.android
+[ INFO ] [2019-08-05-19:39:17] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-appActivitycom.zhihu.android.app.ui.activity.LauncherActivity
+[ INFO ] [2019-08-05-19:39:17] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-session超时时间600S
+[ INFO ] [2019-08-05-19:39:17] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-udid超时时间-->88MFBML3H4MH
+[ INFO ] [2019-08-05-19:39:17] [Class-initDriver][Method-getDriver] 启动Andriod Driver,启动在【8239】端口,UUID是：【88MFBML3H4MH】...
+[ INFO ] [2019-08-05-19:39:24] [Class-initDriver][Method-getDriver] 启动Andriod Driver成功...
+[ INFO ] [2019-08-05-19:39:24] [Class-by][Method-by] 当前定位方式是name,定位元素热榜
+[ INFO ] [2019-08-05-19:39:36] [Class-pageBase1][Method-element] 元素为[[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> name: 热榜]
+[ INFO ] [2019-08-05-19:39:39] [Class-pageBase1][Method-click] 点击元素-->[[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> name: 热榜]
+[ INFO ] [2019-08-05-19:39:39] [Class-by][Method-by] 当前定位方式是name,定位元素全站
+[ INFO ] [2019-08-05-19:39:40] [Class-pageBase1][Method-element] 元素为[[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> name: 全站]
+[ INFO ] [2019-08-05-19:39:41] [Class-pageBase1][Method-click] 点击元素-->[[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> name: 全站]
+[ INFO ] [2019-08-05-19:39:41] [Class-pageBase][Method-getWidthAndHeight] 获取到分辨率为：[720, 1280]
+[ INFO ] [2019-08-05-19:39:41] [Class-HomeBuss1][Method-Map] 获取到的屏幕分辨率为：[720,1280]
+[ INFO ] [2019-08-05-19:39:41] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/ranking_no
+[ INFO ] [2019-08-05-19:39:42] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no]]
+[ INFO ] [2019-08-05-19:39:42] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/title
+[ INFO ] [2019-08-05-19:39:42] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title]]
+[ INFO ] [2019-08-05-19:39:42] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：1，获取到的top10TopicsTitle为：为什么「丧文化」在年轻人中这么流行？
+[ INFO ] [2019-08-05-19:39:43] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：2，获取到的top10TopicsTitle为：经常看书的人和不看书的人有什么区别？
+[ INFO ] [2019-08-05-19:39:44] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：3，获取到的top10TopicsTitle为：如何看待乔碧罗被斗鱼封停直播间后，转投 B 站再遭封禁？
+[ INFO ] [2019-08-05-19:39:44] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：4，获取到的top10TopicsTitle为：为什么有的男人穿西装像金融才俊，有的却像地产中介？
+[ INFO ] [2019-08-05-19:39:45] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：5，获取到的top10TopicsTitle为：《哪吒之魔童降世》中哪吒，放漫威是什么水平？
+[ INFO ] [2019-08-05-19:39:45] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 640]-->[360 512]
+[ INFO ] [2019-08-05-19:39:45] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/ranking_no
+[ INFO ] [2019-08-05-19:39:46] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no]]
+[ INFO ] [2019-08-05-19:39:46] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/title
+[ INFO ] [2019-08-05-19:39:46] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title]]
+[ INFO ] [2019-08-05-19:39:47] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：1，获取到的top10TopicsTitle为：为什么「丧文化」在年轻人中这么流行？
+[ INFO ] [2019-08-05-19:39:47] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：2，获取到的top10TopicsTitle为：经常看书的人和不看书的人有什么区别？
+[ INFO ] [2019-08-05-19:39:47] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：3，获取到的top10TopicsTitle为：如何看待乔碧罗被斗鱼封停直播间后，转投 B 站再遭封禁？
+[ INFO ] [2019-08-05-19:39:48] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：4，获取到的top10TopicsTitle为：为什么有的男人穿西装像金融才俊，有的却像地产中介？
+[ INFO ] [2019-08-05-19:39:48] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：5，获取到的top10TopicsTitle为：《哪吒之魔童降世》中哪吒，放漫威是什么水平？
+[ INFO ] [2019-08-05-19:39:49] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 640]-->[360 512]
+[ INFO ] [2019-08-05-19:39:49] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/ranking_no
+[ INFO ] [2019-08-05-19:39:50] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no]]
+[ INFO ] [2019-08-05-19:39:50] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/title
+[ INFO ] [2019-08-05-19:39:50] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title]]
+[ INFO ] [2019-08-05-19:39:50] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：2，获取到的top10TopicsTitle为：为什么「丧文化」在年轻人中这么流行？
+[ INFO ] [2019-08-05-19:39:50] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：3，获取到的top10TopicsTitle为：经常看书的人和不看书的人有什么区别？
+[ INFO ] [2019-08-05-19:39:51] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：4，获取到的top10TopicsTitle为：如何看待乔碧罗被斗鱼封停直播间后，转投 B 站再遭封禁？
+[ INFO ] [2019-08-05-19:39:51] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：5，获取到的top10TopicsTitle为：为什么有的男人穿西装像金融才俊，有的却像地产中介？
+[ INFO ] [2019-08-05-19:39:51] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：6，获取到的top10TopicsTitle为：《哪吒之魔童降世》中哪吒，放漫威是什么水平？
+[ INFO ] [2019-08-05-19:39:52] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 640]-->[360 512]
+[ INFO ] [2019-08-05-19:39:52] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/ranking_no
+[ INFO ] [2019-08-05-19:39:53] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no]]
+[ INFO ] [2019-08-05-19:39:53] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/title
+[ INFO ] [2019-08-05-19:39:53] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title]]
+[ INFO ] [2019-08-05-19:39:54] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：2，获取到的top10TopicsTitle为：经常看书的人和不看书的人有什么区别？
+[ INFO ] [2019-08-05-19:39:54] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：3，获取到的top10TopicsTitle为：如何看待乔碧罗被斗鱼封停直播间后，转投 B 站再遭封禁？
+[ INFO ] [2019-08-05-19:39:54] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：4，获取到的top10TopicsTitle为：为什么有的男人穿西装像金融才俊，有的却像地产中介？
+[ INFO ] [2019-08-05-19:39:54] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：5，获取到的top10TopicsTitle为：《哪吒之魔童降世》中哪吒，放漫威是什么水平？
+[ INFO ] [2019-08-05-19:39:55] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：6，获取到的top10TopicsTitle为：如何看待《上海堡垒》捆绑《流浪地球》宣发?
+[ INFO ] [2019-08-05-19:39:56] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 640]-->[360 512]
+[ INFO ] [2019-08-05-19:39:56] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/ranking_no
+[ INFO ] [2019-08-05-19:39:57] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no]]
+[ INFO ] [2019-08-05-19:39:57] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/title
+[ INFO ] [2019-08-05-19:39:57] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title]]
+[ INFO ] [2019-08-05-19:39:58] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：3，获取到的top10TopicsTitle为：如何看待乔碧罗被斗鱼封停直播间后，转投 B 站再遭封禁？
+[ INFO ] [2019-08-05-19:39:58] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：4，获取到的top10TopicsTitle为：为什么有的男人穿西装像金融才俊，有的却像地产中介？
+[ INFO ] [2019-08-05-19:39:58] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：5，获取到的top10TopicsTitle为：《哪吒之魔童降世》中哪吒，放漫威是什么水平？
+[ INFO ] [2019-08-05-19:39:58] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：6，获取到的top10TopicsTitle为：如何看待《上海堡垒》捆绑《流浪地球》宣发?
+[ INFO ] [2019-08-05-19:39:59] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：7，获取到的top10TopicsTitle为：为什么宿舍里总有人好意思吃独食，让别人看着？
+[ INFO ] [2019-08-05-19:39:59] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 640]-->[360 512]
+[ INFO ] [2019-08-05-19:39:59] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/ranking_no
+[ INFO ] [2019-08-05-19:40:00] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no]]
+[ INFO ] [2019-08-05-19:40:01] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/title
+[ INFO ] [2019-08-05-19:40:01] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title]]
+[ INFO ] [2019-08-05-19:40:01] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：3，获取到的top10TopicsTitle为：如何看待乔碧罗被斗鱼封停直播间后，转投 B 站再遭封禁？
+[ INFO ] [2019-08-05-19:40:01] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：4，获取到的top10TopicsTitle为：为什么有的男人穿西装像金融才俊，有的却像地产中介？
+[ INFO ] [2019-08-05-19:40:01] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：5，获取到的top10TopicsTitle为：《哪吒之魔童降世》中哪吒，放漫威是什么水平？
+[ INFO ] [2019-08-05-19:40:02] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：6，获取到的top10TopicsTitle为：如何看待《上海堡垒》捆绑《流浪地球》宣发?
+[ INFO ] [2019-08-05-19:40:02] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：7，获取到的top10TopicsTitle为：为什么宿舍里总有人好意思吃独食，让别人看着？
+[ INFO ] [2019-08-05-19:40:03] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 640]-->[360 512]
+[ INFO ] [2019-08-05-19:40:03] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/ranking_no
+[ INFO ] [2019-08-05-19:40:04] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no]]
+[ INFO ] [2019-08-05-19:40:04] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/title
+[ INFO ] [2019-08-05-19:40:04] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title]]
+[ INFO ] [2019-08-05-19:40:04] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：4，获取到的top10TopicsTitle为：如何看待乔碧罗被斗鱼封停直播间后，转投 B 站再遭封禁？
+[ INFO ] [2019-08-05-19:40:04] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：5，获取到的top10TopicsTitle为：为什么有的男人穿西装像金融才俊，有的却像地产中介？
+[ INFO ] [2019-08-05-19:40:05] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：6，获取到的top10TopicsTitle为：《哪吒之魔童降世》中哪吒，放漫威是什么水平？
+[ INFO ] [2019-08-05-19:40:05] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：7，获取到的top10TopicsTitle为：如何看待《上海堡垒》捆绑《流浪地球》宣发?
+[ INFO ] [2019-08-05-19:40:06] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：8，获取到的top10TopicsTitle为：为什么宿舍里总有人好意思吃独食，让别人看着？
+[ INFO ] [2019-08-05-19:40:06] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 640]-->[360 512]
+[ INFO ] [2019-08-05-19:40:06] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/ranking_no
+[ INFO ] [2019-08-05-19:40:07] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no]]
+[ INFO ] [2019-08-05-19:40:07] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/title
+[ INFO ] [2019-08-05-19:40:07] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title]]
+[ INFO ] [2019-08-05-19:40:08] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：4，获取到的top10TopicsTitle为：为什么有的男人穿西装像金融才俊，有的却像地产中介？
+[ INFO ] [2019-08-05-19:40:08] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：5，获取到的top10TopicsTitle为：《哪吒之魔童降世》中哪吒，放漫威是什么水平？
+[ INFO ] [2019-08-05-19:40:08] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：6，获取到的top10TopicsTitle为：如何看待《上海堡垒》捆绑《流浪地球》宣发?
+[ INFO ] [2019-08-05-19:40:08] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：7，获取到的top10TopicsTitle为：为什么宿舍里总有人好意思吃独食，让别人看着？
+[ INFO ] [2019-08-05-19:40:09] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：8，获取到的top10TopicsTitle为：有哪些给专科生的建议？
+[ INFO ] [2019-08-05-19:40:09] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 640]-->[360 512]
+[ INFO ] [2019-08-05-19:40:09] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/ranking_no
+[ INFO ] [2019-08-05-19:40:10] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no]]
+[ INFO ] [2019-08-05-19:40:10] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/title
+[ INFO ] [2019-08-05-19:40:11] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title]]
+[ INFO ] [2019-08-05-19:40:11] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：5，获取到的top10TopicsTitle为：为什么有的男人穿西装像金融才俊，有的却像地产中介？
+[ INFO ] [2019-08-05-19:40:11] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：6，获取到的top10TopicsTitle为：《哪吒之魔童降世》中哪吒，放漫威是什么水平？
+[ INFO ] [2019-08-05-19:40:11] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：7，获取到的top10TopicsTitle为：如何看待《上海堡垒》捆绑《流浪地球》宣发?
+[ INFO ] [2019-08-05-19:40:12] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：8，获取到的top10TopicsTitle为：为什么宿舍里总有人好意思吃独食，让别人看着？
+[ INFO ] [2019-08-05-19:40:12] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：9，获取到的top10TopicsTitle为：有哪些给专科生的建议？
+[ INFO ] [2019-08-05-19:40:12] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 640]-->[360 512]
+[ INFO ] [2019-08-05-19:40:12] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/ranking_no
+[ INFO ] [2019-08-05-19:40:13] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no]]
+[ INFO ] [2019-08-05-19:40:13] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/title
+[ INFO ] [2019-08-05-19:40:14] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title]]
+[ INFO ] [2019-08-05-19:40:14] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：5，获取到的top10TopicsTitle为：《哪吒之魔童降世》中哪吒，放漫威是什么水平？
+[ INFO ] [2019-08-05-19:40:14] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：6，获取到的top10TopicsTitle为：如何看待《上海堡垒》捆绑《流浪地球》宣发?
+[ INFO ] [2019-08-05-19:40:14] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：7，获取到的top10TopicsTitle为：为什么宿舍里总有人好意思吃独食，让别人看着？
+[ INFO ] [2019-08-05-19:40:14] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：8，获取到的top10TopicsTitle为：有哪些给专科生的建议？
+[ INFO ] [2019-08-05-19:40:15] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：9，获取到的top10TopicsTitle为：如何看待方舟编译器的已可下载及其正式官方介绍？
+[ INFO ] [2019-08-05-19:40:16] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 640]-->[360 512]
+[ INFO ] [2019-08-05-19:40:16] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/ranking_no
+[ INFO ] [2019-08-05-19:40:17] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no]]
+[ INFO ] [2019-08-05-19:40:17] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/title
+[ INFO ] [2019-08-05-19:40:17] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title]]
+[ INFO ] [2019-08-05-19:40:17] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：6，获取到的top10TopicsTitle为：《哪吒之魔童降世》中哪吒，放漫威是什么水平？
+[ INFO ] [2019-08-05-19:40:17] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：7，获取到的top10TopicsTitle为：如何看待《上海堡垒》捆绑《流浪地球》宣发?
+[ INFO ] [2019-08-05-19:40:17] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：8，获取到的top10TopicsTitle为：为什么宿舍里总有人好意思吃独食，让别人看着？
+[ INFO ] [2019-08-05-19:40:18] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：9，获取到的top10TopicsTitle为：有哪些给专科生的建议？
+[ INFO ] [2019-08-05-19:40:19] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 640]-->[360 512]
+[ INFO ] [2019-08-05-19:40:19] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/ranking_no
+[ INFO ] [2019-08-05-19:40:20] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no]]
+[ INFO ] [2019-08-05-19:40:20] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/title
+[ INFO ] [2019-08-05-19:40:20] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title]]
+[ INFO ] [2019-08-05-19:40:20] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：6，获取到的top10TopicsTitle为：如何看待《上海堡垒》捆绑《流浪地球》宣发?
+[ INFO ] [2019-08-05-19:40:21] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：7，获取到的top10TopicsTitle为：为什么宿舍里总有人好意思吃独食，让别人看着？
+[ INFO ] [2019-08-05-19:40:21] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：8，获取到的top10TopicsTitle为：有哪些给专科生的建议？
+[ INFO ] [2019-08-05-19:40:21] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：9，获取到的top10TopicsTitle为：如何看待方舟编译器的已可下载及其正式官方介绍？
+[ INFO ] [2019-08-05-19:40:21] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 640]-->[360 512]
+[ INFO ] [2019-08-05-19:40:21] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/ranking_no
+[ INFO ] [2019-08-05-19:40:22] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/ranking_no]]
+[ INFO ] [2019-08-05-19:40:22] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/title
+[ INFO ] [2019-08-05-19:40:23] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (e0d33b3f-f8f8-48fa-90d3-170245facabd)] -> id: com.zhihu.android:id/title]]
+[ INFO ] [2019-08-05-19:40:23] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：7，获取到的top10TopicsTitle为：为什么宿舍里总有人好意思吃独食，让别人看着？
+[ INFO ] [2019-08-05-19:40:23] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：8，获取到的top10TopicsTitle为：有哪些给专科生的建议？
+[ INFO ] [2019-08-05-19:40:23] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：9，获取到的top10TopicsTitle为：如何看待方舟编译器的已可下载及其正式官方介绍？
+[ INFO ] [2019-08-05-19:40:23] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：11，获取到的top10TopicsTitle为：中国有哪些被低估的乐队？
+[ INFO ] [2019-08-05-19:40:24] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 640]-->[360 512]
+[ INFO ] [2019-08-05-19:42:19] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:42:19] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:42:19] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:42:19] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:42:19] [Class-startAppiumServer][Method-Map] 清除node进程成功
+[ INFO ] [2019-08-05-19:42:19] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:42:20] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:42:20] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:42:20] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:42:20] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:42:20] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:42:20] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:42:20] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:42:20] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:42:20] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:42:20] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:42:20] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:42:20] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:42:20] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:42:20] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:42:20] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:42:20] [Class-startAppiumServer][Method-Map] 开始启动Appium-Server
+[ INFO ] [2019-08-05-19:42:20] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:42:20] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:42:30] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:42:30] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:42:30] [Class-startAppiumServer][Method-Map] Appium-Server启动完成
+[ INFO ] [2019-08-05-19:42:30] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:42:30] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:42:30] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:42:30] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:42:30] [Class-DriverBase] 当前连接上Appium-server的设备UUID是：[88MFBML3H4MH]
+[ INFO ] [2019-08-05-19:42:30] [Class-DriverBase] 启动的UUID是:[88MFBML3H4MH],启动的Appium端口是：[4568]
+[ INFO ] [2019-08-05-19:42:30] [Class-initDriver][Method-getDriver] 当前APP已安装
+[ INFO ] [2019-08-05-19:42:30] [Class-initDriver][Method-getDriver] 调用‘initDriver’方法
+[ INFO ] [2019-08-05-19:42:30] [Class-initDriver][Method-getDriver] 创建DesiredCapabilities对象
+[ INFO ] [2019-08-05-19:42:30] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-DeviceName：Android
+[ INFO ] [2019-08-05-19:42:30] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-appPackagecom.zhihu.android
+[ INFO ] [2019-08-05-19:42:30] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-appActivitycom.zhihu.android.app.ui.activity.LauncherActivity
+[ INFO ] [2019-08-05-19:42:30] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-session超时时间600S
+[ INFO ] [2019-08-05-19:42:30] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-udid超时时间-->88MFBML3H4MH
+[ INFO ] [2019-08-05-19:42:30] [Class-initDriver][Method-getDriver] 启动Andriod Driver,启动在【4568】端口,UUID是：【88MFBML3H4MH】...
+[ INFO ] [2019-08-05-19:42:37] [Class-initDriver][Method-getDriver] 启动Andriod Driver成功...
+[ INFO ] [2019-08-05-19:42:37] [Class-by][Method-by] 当前定位方式是name,定位元素允许
+[ INFO ] [2019-08-05-19:42:48] [Class-pageBase1][Method-element] 未定位到元素
+[ INFO ] [2019-08-05-19:43:29] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:43:29] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:43:29] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:43:29] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:43:29] [Class-startAppiumServer][Method-Map] 清除node进程成功
+[ INFO ] [2019-08-05-19:43:29] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:43:29] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:43:29] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:43:29] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:43:29] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:43:29] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:43:29] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:43:29] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:43:29] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:43:29] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:43:29] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:43:29] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:43:29] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:43:29] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:43:29] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:43:29] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:43:29] [Class-startAppiumServer][Method-Map] 开始启动Appium-Server
+[ INFO ] [2019-08-05-19:43:29] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:43:29] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:43:39] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:43:39] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:43:39] [Class-startAppiumServer][Method-Map] Appium-Server启动完成
+[ INFO ] [2019-08-05-19:43:39] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:43:39] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:43:39] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:43:40] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:43:40] [Class-DriverBase] 当前连接上Appium-server的设备UUID是：[88MFBML3H4MH]
+[ INFO ] [2019-08-05-19:43:40] [Class-DriverBase] 启动的UUID是:[88MFBML3H4MH],启动的Appium端口是：[5030]
+[ INFO ] [2019-08-05-19:43:40] [Class-initDriver][Method-getDriver] 当前APP已安装
+[ INFO ] [2019-08-05-19:43:40] [Class-initDriver][Method-getDriver] 调用‘initDriver’方法
+[ INFO ] [2019-08-05-19:43:40] [Class-initDriver][Method-getDriver] 创建DesiredCapabilities对象
+[ INFO ] [2019-08-05-19:43:40] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-DeviceName：Android
+[ INFO ] [2019-08-05-19:43:40] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-appPackagecom.zhihu.android
+[ INFO ] [2019-08-05-19:43:40] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-appActivitycom.zhihu.android.app.ui.activity.LauncherActivity
+[ INFO ] [2019-08-05-19:43:40] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-session超时时间600S
+[ INFO ] [2019-08-05-19:43:40] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-udid超时时间-->88MFBML3H4MH
+[ INFO ] [2019-08-05-19:43:40] [Class-initDriver][Method-getDriver] 启动Andriod Driver,启动在【5030】端口,UUID是：【88MFBML3H4MH】...
+[ INFO ] [2019-08-05-19:43:46] [Class-initDriver][Method-getDriver] 启动Andriod Driver成功...
+[ INFO ] [2019-08-05-19:43:46] [Class-by][Method-by] 当前定位方式是name,定位元素允许
+[ INFO ] [2019-08-05-19:43:57] [Class-pageBase1][Method-element] 未定位到元素
+[ INFO ] [2019-08-05-19:47:03] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:47:03] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:47:03] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:47:03] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:47:03] [Class-startAppiumServer][Method-Map] 清除node进程成功
+[ INFO ] [2019-08-05-19:47:03] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:47:03] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:47:03] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:47:03] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:47:03] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:47:03] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:47:03] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:47:04] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:47:04] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:47:04] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:47:04] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:47:04] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:47:04] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:47:04] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:47:04] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:47:04] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:47:04] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:47:04] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:47:04] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:47:04] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:47:04] [Class-startAppiumServer][Method-Map] 开始启动Appium-Server
+[ INFO ] [2019-08-05-19:47:04] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:47:04] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:47:14] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:47:14] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:47:14] [Class-startAppiumServer][Method-Map] Appium-Server启动完成
+[ INFO ] [2019-08-05-19:47:14] [Class-executeCommand][Method-executed] 当前脚本执行在Windows系统上
+[ INFO ] [2019-08-05-19:47:14] [Class-executeCommand][Method-executed] 当前Appium-Server开始延时启动中....
+[ INFO ] [2019-08-05-19:47:14] [Class-executeCommand][Method-executed] 当前Appium-Server启动延时已经结束
+[ INFO ] [2019-08-05-19:47:14] [Class-executeCommand][Method-executed] 返回执行后的日志集合
+[ INFO ] [2019-08-05-19:47:14] [Class-DriverBase] 当前连接上Appium-server的设备UUID是：[88MFBML3H4MH]
+[ INFO ] [2019-08-05-19:47:14] [Class-DriverBase] 启动的UUID是:[88MFBML3H4MH],启动的Appium端口是：[8279]
+[ INFO ] [2019-08-05-19:47:14] [Class-initDriver][Method-getDriver] 当前APP已安装
+[ INFO ] [2019-08-05-19:47:14] [Class-initDriver][Method-getDriver] 调用‘initDriver’方法
+[ INFO ] [2019-08-05-19:47:14] [Class-initDriver][Method-getDriver] 创建DesiredCapabilities对象
+[ INFO ] [2019-08-05-19:47:14] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-DeviceName：Android
+[ INFO ] [2019-08-05-19:47:14] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-appPackagecom.zhihu.android
+[ INFO ] [2019-08-05-19:47:14] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-appActivitycom.zhihu.android.app.ui.activity.LauncherActivity
+[ INFO ] [2019-08-05-19:47:14] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-session超时时间600S
+[ INFO ] [2019-08-05-19:47:14] [Class-initDriver][Method-getDriver] 设置DesiredCapabilities参数-udid超时时间-->88MFBML3H4MH
+[ INFO ] [2019-08-05-19:47:14] [Class-initDriver][Method-getDriver] 启动Andriod Driver,启动在【8279】端口,UUID是：【88MFBML3H4MH】...
+[ INFO ] [2019-08-05-19:47:20] [Class-initDriver][Method-getDriver] 启动Andriod Driver成功...
+[ INFO ] [2019-08-05-19:47:20] [Class-by][Method-by] 当前定位方式是name,定位元素允许
+[ INFO ] [2019-08-05-19:47:33] [Class-pageBase1][Method-element] 未定位到元素
+[ INFO ] [2019-08-05-19:47:33] [Class-pageBase1][Method-click] 元素为空 无法点击操作
+[ INFO ] [2019-08-05-19:47:33] [Class-by][Method-by] 当前定位方式是name,定位元素热榜
+[ INFO ] [2019-08-05-19:47:33] [Class-pageBase1][Method-element] 元素为[[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> name: 热榜]
+[ INFO ] [2019-08-05-19:47:34] [Class-pageBase1][Method-click] 点击元素-->[[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> name: 热榜]
+[ INFO ] [2019-08-05-19:47:34] [Class-by][Method-by] 当前定位方式是name,定位元素全站
+[ INFO ] [2019-08-05-19:47:36] [Class-pageBase1][Method-element] 元素为[[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> name: 全站]
+[ INFO ] [2019-08-05-19:47:37] [Class-pageBase1][Method-click] 点击元素-->[[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> name: 全站]
+[ INFO ] [2019-08-05-19:47:37] [Class-pageBase][Method-getWidthAndHeight] 获取到分辨率为：[720, 1280]
+[ INFO ] [2019-08-05-19:47:37] [Class-HomeBuss1][Method-Map] 获取到的屏幕分辨率为：[720,1280]
+[ INFO ] [2019-08-05-19:47:37] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/ranking_no
+[ INFO ] [2019-08-05-19:47:39] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no]]
+[ INFO ] [2019-08-05-19:47:39] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/title
+[ INFO ] [2019-08-05-19:47:40] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title]]
+[ INFO ] [2019-08-05-19:47:40] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：1，获取到的top10TopicsTitle为：为什么「丧文化」在年轻人中这么流行？
+[ INFO ] [2019-08-05-19:47:41] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：2，获取到的top10TopicsTitle为：经常看书的人和不看书的人有什么区别？
+[ INFO ] [2019-08-05-19:47:41] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：3，获取到的top10TopicsTitle为：如何看待乔碧罗被斗鱼封停直播间后，转投 B 站再遭封禁？
+[ INFO ] [2019-08-05-19:47:41] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：4，获取到的top10TopicsTitle为：为什么有的男人穿西装像金融才俊，有的却像地产中介？
+[ INFO ] [2019-08-05-19:47:41] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：5，获取到的top10TopicsTitle为：《哪吒之魔童降世》中哪吒，放漫威是什么水平？
+[ INFO ] [2019-08-05-19:47:42] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 640]-->[360 512]
+[ INFO ] [2019-08-05-19:47:42] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/ranking_no
+[ INFO ] [2019-08-05-19:47:43] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no]]
+[ INFO ] [2019-08-05-19:47:43] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/title
+[ INFO ] [2019-08-05-19:47:43] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title]]
+[ INFO ] [2019-08-05-19:47:43] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：1，获取到的top10TopicsTitle为：为什么「丧文化」在年轻人中这么流行？
+[ INFO ] [2019-08-05-19:47:44] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：2，获取到的top10TopicsTitle为：经常看书的人和不看书的人有什么区别？
+[ INFO ] [2019-08-05-19:47:44] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：3，获取到的top10TopicsTitle为：如何看待乔碧罗被斗鱼封停直播间后，转投 B 站再遭封禁？
+[ INFO ] [2019-08-05-19:47:44] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：4，获取到的top10TopicsTitle为：为什么有的男人穿西装像金融才俊，有的却像地产中介？
+[ INFO ] [2019-08-05-19:47:44] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：5，获取到的top10TopicsTitle为：《哪吒之魔童降世》中哪吒，放漫威是什么水平？
+[ INFO ] [2019-08-05-19:47:45] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 640]-->[360 512]
+[ INFO ] [2019-08-05-19:47:45] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/ranking_no
+[ INFO ] [2019-08-05-19:47:46] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no]]
+[ INFO ] [2019-08-05-19:47:46] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/title
+[ INFO ] [2019-08-05-19:47:46] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title]]
+[ INFO ] [2019-08-05-19:47:47] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：2，获取到的top10TopicsTitle为：为什么「丧文化」在年轻人中这么流行？
+[ INFO ] [2019-08-05-19:47:47] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：3，获取到的top10TopicsTitle为：经常看书的人和不看书的人有什么区别？
+[ INFO ] [2019-08-05-19:47:47] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：4，获取到的top10TopicsTitle为：如何看待乔碧罗被斗鱼封停直播间后，转投 B 站再遭封禁？
+[ INFO ] [2019-08-05-19:47:47] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：5，获取到的top10TopicsTitle为：为什么有的男人穿西装像金融才俊，有的却像地产中介？
+[ INFO ] [2019-08-05-19:47:48] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：6，获取到的top10TopicsTitle为：《哪吒之魔童降世》中哪吒，放漫威是什么水平？
+[ INFO ] [2019-08-05-19:47:48] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 640]-->[360 512]
+[ INFO ] [2019-08-05-19:47:48] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/ranking_no
+[ INFO ] [2019-08-05-19:47:50] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no]]
+[ INFO ] [2019-08-05-19:47:50] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/title
+[ INFO ] [2019-08-05-19:47:50] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title]]
+[ INFO ] [2019-08-05-19:47:50] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：2，获取到的top10TopicsTitle为：经常看书的人和不看书的人有什么区别？
+[ INFO ] [2019-08-05-19:47:51] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：3，获取到的top10TopicsTitle为：如何看待乔碧罗被斗鱼封停直播间后，转投 B 站再遭封禁？
+[ INFO ] [2019-08-05-19:47:51] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：4，获取到的top10TopicsTitle为：为什么有的男人穿西装像金融才俊，有的却像地产中介？
+[ INFO ] [2019-08-05-19:47:51] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：5，获取到的top10TopicsTitle为：《哪吒之魔童降世》中哪吒，放漫威是什么水平？
+[ INFO ] [2019-08-05-19:47:51] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：6，获取到的top10TopicsTitle为：为什么宿舍里总有人好意思吃独食，让别人看着？
+[ INFO ] [2019-08-05-19:47:52] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 640]-->[360 512]
+[ INFO ] [2019-08-05-19:47:52] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/ranking_no
+[ INFO ] [2019-08-05-19:47:53] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no]]
+[ INFO ] [2019-08-05-19:47:53] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/title
+[ INFO ] [2019-08-05-19:47:54] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title]]
+[ INFO ] [2019-08-05-19:47:54] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：3，获取到的top10TopicsTitle为：如何看待乔碧罗被斗鱼封停直播间后，转投 B 站再遭封禁？
+[ INFO ] [2019-08-05-19:47:54] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：4，获取到的top10TopicsTitle为：为什么有的男人穿西装像金融才俊，有的却像地产中介？
+[ INFO ] [2019-08-05-19:47:55] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：5，获取到的top10TopicsTitle为：《哪吒之魔童降世》中哪吒，放漫威是什么水平？
+[ INFO ] [2019-08-05-19:47:56] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：6，获取到的top10TopicsTitle为：为什么宿舍里总有人好意思吃独食，让别人看着？
+[ INFO ] [2019-08-05-19:47:56] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：7，获取到的top10TopicsTitle为：如何看待《上海堡垒》捆绑《流浪地球》宣发?
+[ INFO ] [2019-08-05-19:47:57] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 640]-->[360 512]
+[ INFO ] [2019-08-05-19:47:57] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/ranking_no
+[ INFO ] [2019-08-05-19:47:58] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no]]
+[ INFO ] [2019-08-05-19:47:58] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/title
+[ INFO ] [2019-08-05-19:47:58] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title]]
+[ INFO ] [2019-08-05-19:47:58] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：3，获取到的top10TopicsTitle为：如何看待乔碧罗被斗鱼封停直播间后，转投 B 站再遭封禁？
+[ INFO ] [2019-08-05-19:47:58] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：4，获取到的top10TopicsTitle为：为什么有的男人穿西装像金融才俊，有的却像地产中介？
+[ INFO ] [2019-08-05-19:47:59] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：5，获取到的top10TopicsTitle为：《哪吒之魔童降世》中哪吒，放漫威是什么水平？
+[ INFO ] [2019-08-05-19:47:59] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：6，获取到的top10TopicsTitle为：为什么宿舍里总有人好意思吃独食，让别人看着？
+[ INFO ] [2019-08-05-19:47:59] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：7，获取到的top10TopicsTitle为：如何看待《上海堡垒》捆绑《流浪地球》宣发?
+[ INFO ] [2019-08-05-19:48:00] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 640]-->[360 512]
+[ INFO ] [2019-08-05-19:48:00] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/ranking_no
+[ INFO ] [2019-08-05-19:48:00] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no]]
+[ INFO ] [2019-08-05-19:48:00] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/title
+[ INFO ] [2019-08-05-19:48:01] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title]]
+[ INFO ] [2019-08-05-19:48:01] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：4，获取到的top10TopicsTitle为：如何看待乔碧罗被斗鱼封停直播间后，转投 B 站再遭封禁？
+[ INFO ] [2019-08-05-19:48:01] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：5，获取到的top10TopicsTitle为：为什么有的男人穿西装像金融才俊，有的却像地产中介？
+[ INFO ] [2019-08-05-19:48:02] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：6，获取到的top10TopicsTitle为：《哪吒之魔童降世》中哪吒，放漫威是什么水平？
+[ INFO ] [2019-08-05-19:48:02] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：7，获取到的top10TopicsTitle为：为什么宿舍里总有人好意思吃独食，让别人看着？
+[ INFO ] [2019-08-05-19:48:02] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：8，获取到的top10TopicsTitle为：如何看待《上海堡垒》捆绑《流浪地球》宣发?
+[ INFO ] [2019-08-05-19:48:03] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 640]-->[360 512]
+[ INFO ] [2019-08-05-19:48:03] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/ranking_no
+[ INFO ] [2019-08-05-19:48:04] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no]]
+[ INFO ] [2019-08-05-19:48:04] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/title
+[ INFO ] [2019-08-05-19:48:04] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title]]
+[ INFO ] [2019-08-05-19:48:04] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：4，获取到的top10TopicsTitle为：为什么有的男人穿西装像金融才俊，有的却像地产中介？
+[ INFO ] [2019-08-05-19:48:05] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：5，获取到的top10TopicsTitle为：《哪吒之魔童降世》中哪吒，放漫威是什么水平？
+[ INFO ] [2019-08-05-19:48:05] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：6，获取到的top10TopicsTitle为：为什么宿舍里总有人好意思吃独食，让别人看着？
+[ INFO ] [2019-08-05-19:48:05] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：7，获取到的top10TopicsTitle为：如何看待《上海堡垒》捆绑《流浪地球》宣发?
+[ INFO ] [2019-08-05-19:48:05] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：8，获取到的top10TopicsTitle为：有哪些给专科生的建议？
+[ INFO ] [2019-08-05-19:48:06] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 640]-->[360 512]
+[ INFO ] [2019-08-05-19:48:06] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/ranking_no
+[ INFO ] [2019-08-05-19:48:07] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no]]
+[ INFO ] [2019-08-05-19:48:07] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/title
+[ INFO ] [2019-08-05-19:48:07] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title]]
+[ INFO ] [2019-08-05-19:48:07] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：5，获取到的top10TopicsTitle为：为什么有的男人穿西装像金融才俊，有的却像地产中介？
+[ INFO ] [2019-08-05-19:48:07] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：6，获取到的top10TopicsTitle为：《哪吒之魔童降世》中哪吒，放漫威是什么水平？
+[ INFO ] [2019-08-05-19:48:08] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：7，获取到的top10TopicsTitle为：为什么宿舍里总有人好意思吃独食，让别人看着？
+[ INFO ] [2019-08-05-19:48:08] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：8，获取到的top10TopicsTitle为：如何看待《上海堡垒》捆绑《流浪地球》宣发?
+[ INFO ] [2019-08-05-19:48:08] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：9，获取到的top10TopicsTitle为：有哪些给专科生的建议？
+[ INFO ] [2019-08-05-19:48:09] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 640]-->[360 512]
+[ INFO ] [2019-08-05-19:48:09] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/ranking_no
+[ INFO ] [2019-08-05-19:48:10] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no]]
+[ INFO ] [2019-08-05-19:48:10] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/title
+[ INFO ] [2019-08-05-19:48:10] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title]]
+[ INFO ] [2019-08-05-19:48:10] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：5，获取到的top10TopicsTitle为：《哪吒之魔童降世》中哪吒，放漫威是什么水平？
+[ INFO ] [2019-08-05-19:48:10] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：6，获取到的top10TopicsTitle为：为什么宿舍里总有人好意思吃独食，让别人看着？
+[ INFO ] [2019-08-05-19:48:10] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：7，获取到的top10TopicsTitle为：如何看待《上海堡垒》捆绑《流浪地球》宣发?
+[ INFO ] [2019-08-05-19:48:11] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：8，获取到的top10TopicsTitle为：有哪些给专科生的建议？
+[ INFO ] [2019-08-05-19:48:11] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：9，获取到的top10TopicsTitle为：如何看待方舟编译器的已可下载及其正式官方介绍？
+[ INFO ] [2019-08-05-19:48:11] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 640]-->[360 512]
+[ INFO ] [2019-08-05-19:48:11] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/ranking_no
+[ INFO ] [2019-08-05-19:48:13] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no]]
+[ INFO ] [2019-08-05-19:48:13] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/title
+[ INFO ] [2019-08-05-19:48:13] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title]]
+[ INFO ] [2019-08-05-19:48:13] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：6，获取到的top10TopicsTitle为：《哪吒之魔童降世》中哪吒，放漫威是什么水平？
+[ INFO ] [2019-08-05-19:48:13] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：7，获取到的top10TopicsTitle为：为什么宿舍里总有人好意思吃独食，让别人看着？
+[ INFO ] [2019-08-05-19:48:13] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：8，获取到的top10TopicsTitle为：如何看待《上海堡垒》捆绑《流浪地球》宣发?
+[ INFO ] [2019-08-05-19:48:13] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：9，获取到的top10TopicsTitle为：有哪些给专科生的建议？
+[ INFO ] [2019-08-05-19:48:14] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 640]-->[360 512]
+[ INFO ] [2019-08-05-19:48:14] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/ranking_no
+[ INFO ] [2019-08-05-19:48:15] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no]]
+[ INFO ] [2019-08-05-19:48:15] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/title
+[ INFO ] [2019-08-05-19:48:16] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title]]
+[ INFO ] [2019-08-05-19:48:16] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：6，获取到的top10TopicsTitle为：为什么宿舍里总有人好意思吃独食，让别人看着？
+[ INFO ] [2019-08-05-19:48:16] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：7，获取到的top10TopicsTitle为：如何看待《上海堡垒》捆绑《流浪地球》宣发?
+[ INFO ] [2019-08-05-19:48:16] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：8，获取到的top10TopicsTitle为：有哪些给专科生的建议？
+[ INFO ] [2019-08-05-19:48:16] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：9，获取到的top10TopicsTitle为：如何看待方舟编译器的已可下载及其正式官方介绍？
+[ INFO ] [2019-08-05-19:48:17] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 640]-->[360 512]
+[ INFO ] [2019-08-05-19:48:17] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/ranking_no
+[ INFO ] [2019-08-05-19:48:18] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/ranking_no]]
+[ INFO ] [2019-08-05-19:48:18] [Class-by][Method-by] 当前定位方式是id,定位元素com.zhihu.android:id/title
+[ INFO ] [2019-08-05-19:48:18] [Class-pageBase1][Method-elements] 元素为[[[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title], [[AndroidDriver: Android on LINUX (3ab7677a-bb24-455d-986d-422724725c95)] -> id: com.zhihu.android:id/title]]
+[ INFO ] [2019-08-05-19:48:18] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：7，获取到的top10TopicsTitle为：如何看待《上海堡垒》捆绑《流浪地球》宣发?
+[ INFO ] [2019-08-05-19:48:18] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：8，获取到的top10TopicsTitle为：有哪些给专科生的建议？
+[ INFO ] [2019-08-05-19:48:19] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：9，获取到的top10TopicsTitle为：如何看待方舟编译器的已可下载及其正式官方介绍？
+[ INFO ] [2019-08-05-19:48:19] [Class-HomeBuss1][Method-Map] 获取到的top10TopicsNo为：11，获取到的top10TopicsTitle为：中国有哪些被低估的乐队？
+[ INFO ] [2019-08-05-19:48:19] [Class-pageBase][Method-driverSwipe] 滑动坐标从[360 640]-->[360 512]
